@@ -14,4 +14,7 @@
 ### Seminar
 - Mention what other methods apart from agile
 	- mention the parts of agile that is being used
-	- 
+
+-  testing a part of objective
+	- background research
+	- lit review
