@@ -15,6 +15,11 @@
 - Mention what other methods apart from agile
 	- mention the parts of agile that is being used
 
+
+
+- objectives isnt just features of software
 -  testing a part of objective
 	- background research
 	- lit review
+
+logbook up until week 4
