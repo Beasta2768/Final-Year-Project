@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
+                "file": "Logbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
+                "file": "Logbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md"
+                "file": "Logbook.md"
               }
             }
           },
@@ -172,12 +171,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a43f651d23334ad",
+  "active": "d47690652027a3be",
   "lastOpenFiles": [
+    "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Logbook.md",
     "Week 3/Week 3 (Lecture) Development methods.md",
     "New folder",
-    "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Week 3",
     "Final Year Project Mark Scheme.sheet.md",
     "Templates/New Week Lecture.md",

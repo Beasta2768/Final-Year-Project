@@ -12,3 +12,6 @@
 ## Week 3
 
 ### Seminar
+- Mention what other methods apart from agile
+	- mention the parts of agile that is being used
+	- 
