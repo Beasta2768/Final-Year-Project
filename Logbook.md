@@ -10,7 +10,6 @@
 - Project would most likely end up being a proto-type so focus on what the final project would be capable of doing
 	- However don't keep leave time for writ-up and not just focus on packing a lot of features into the project for the sake of it
 
-
 ## Week 3
 
 ### Seminar
