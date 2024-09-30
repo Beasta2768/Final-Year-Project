@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3/Week 3 (Lecture) Development methods.md",
+                "file": "Logbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "c17150d6c39a3daf",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3/Week 3 (Lecture) Development methods.md",
+                "file": "Logbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3/Week 3 (Lecture) Development methods.md",
+                "file": "Logbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3/Week 3 (Lecture) Development methods.md"
+                "file": "Logbook.md"
               }
             }
           },
@@ -174,9 +173,9 @@
   },
   "active": "d47690652027a3be",
   "lastOpenFiles": [
+    "Week 3/Week 3 (Lecture) Development methods.md",
     "New folder",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
-    "Week 3/Week 3 (Lecture) Development methods.md",
     "Logbook.md",
     "Week 3",
     "Final Year Project Mark Scheme.sheet.md",
