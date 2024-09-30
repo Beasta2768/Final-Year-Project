@@ -11,4 +11,4 @@
 
 ## Week 3
 
-### Sem
+### Seminar
