@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logbook.md",
+                "file": "Week 3/Week 3 (Lecture) Development methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a43f651d23334ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "c17150d6c39a3daf",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook.md",
+                "file": "Week 3/Week 3 (Lecture) Development methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook.md",
+                "file": "Week 3/Week 3 (Lecture) Development methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook.md"
+                "file": "Week 3/Week 3 (Lecture) Development methods.md"
               }
             }
           },
@@ -161,9 +174,11 @@
   },
   "active": "d47690652027a3be",
   "lastOpenFiles": [
-    "Final Year Project Mark Scheme.sheet.md",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
+    "Week 3/Week 3 (Lecture) Development methods.md",
     "Logbook.md",
+    "Week 3",
+    "Final Year Project Mark Scheme.sheet.md",
     "Templates/New Week Lecture.md",
     "Week 1/Week 1 (Lecture) Final Year Projects.md",
     "Week 2",
