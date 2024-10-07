@@ -46,6 +46,7 @@
 	– Customer demo (to supervisor)
 
 
+## Project Gantt Chart
 • Overall project timeline (adapt to your situation) Project Gantt Chart
 ![[Pasted image 20241007090852.png]]
 
@@ -53,119 +54,106 @@
 • Product with just enough features to satisfy [supervisors], and to provide feedback for future product development
 • Skeleton product with end-to-end functionality
 • Essence of intended solution
-• Eric Reis. (2011). The Lean Startup: How Constant Innovation Creates
-Radically Successful Businesses. London: Portfolio Penguin.
+• Eric Reis. (2011). The Lean Startup: How Constant Innovation Creates Radically Successful Businesses. London: Portfolio Penguin.
 
-REQUIREMENTS
+
+## Requirements
 • Outline requirements for whole system
 • Detailed requirements for current increment
 • User stories
-– As a [user], I want to [perform operation] in order to
-[achieve outcome]
+	– As a [user], I want to [perform operation] in order to [achieve outcome]
 • Use Cases
-– User interaction scenarios
-Requirements
+	– User interaction scenarios
 
-Use Case Title [Title corresponds to use case diagram]
-Primary Actor [Actor corresponds to use case diagram]
-Goal
-Scope
-Preconditions
-Postconditions
-Main Success Scenario 1.
-.
-.
-…
-Extensions 2a.
-a.
-…
-Use Case Template (example)
 
-• There are always more features than resources
-available to build them. Always!
+## Use Case Template (example)
+
+| Use Case Title        | [Title corresponds to use case diagram] |
+| --------------------- | --------------------------------------- |
+| Primary Actor         | [Actor corresponds to use case diagram] |
+| Goal                  |                                         |
+| Scope                 |                                         |
+| Preconditions         |                                         |
+| Postconditions        |                                         |
+| Main Success Scenario | 1. 2. 3. ...                            |
+| Extensions            | 2a. 3a. ...                             |
+
+
+## Prioritisation
+• There are always more features than resources available to build them. Always!
 • MoSCoW prioritisation
-– Must Have (minimum viable product)
-– Should have (version 1, [and version 2])
-– Could have (version 2)
-– Won’t have (manage scope by eliminating features)
-Prioritisation
+	– Must Have (minimum viable product)
+	– Should have (version 1, [and version 2])
+	– Could have (version 2)
+	– Won’t have (manage scope by eliminating features)
 
-DESIGN
+
+## Architecture Styles
 • Multi-channel
-– Support mobile AND desktop clients
+	– Support mobile AND desktop clients
 • Service oriented
-– RESTful services; browser-based UI
-– Microservices
+	– RESTful services; browser-based UI
+	– Microservices
 • Pipe and Filter
-– Compilers, language translators, dataflow driven
+	– Compilers, language translators, dataflow driven
 • Modelling and simulation
-– Model building, parameterisation and evaluation
+	– Model building, parameterisation and evaluation
 • Experimental Harness
-– Machine learning, data input, dashboard, metrics
-Architecture Styles
+	– Machine learning, data input, dashboard, metrics
 
+## Software Design Patterns
 • Model, view, controller
 • Persistence layer (object to relational?)
 • Object creation factories?
-Software Design Patterns
 
-BUILD
+## Implementation Choices
 • Implementation technologies
-– Languages
-– Frameworks
-– Game engines
-– Simulation tools
+	– Languages
+	– Frameworks
+	– Game engines
+	– Simulation tools
 • How to choose?
-– Experiments?
-– Research literature?
-– Case studies?
-Implementation Choices
+	– Experiments?
+	– Research literature?
+	– Case studies?
 
-• Conduct a “mini-experiment” to compare
-alternative approaches
+## Implementation Choices
+• Conduct a “mini-experiment” to compare alternative approaches
 • Make thoughtful choices
 • Record assumptions and decisions
 • Reflect on decisions in project report
-Implementation Choices
 
-TEST
+## Evaluate what you have built
 • Unit testing (of course!)
-– Methods, parameter passing, variable initialisation…
+	– Methods, parameter passing, variable initialisation…
 • Acceptance testing
-– Does it do what it is supposed to do?
+	– Does it do what it is supposed to do?
 • User interface testing
-– Usability
-– Classmates evaluate UI and provide (constructive)
-feedback
-– “Oh, its wonderful!” is useless feedback
-Evaluate what you have built
+	– Usability
+	– Classmates evaluate UI and provide (constructive) feedback
+	– “Oh, its wonderful!” is useless feedback
 
+## Evaluate what you have built
 • Integration testing
-– Does the front-end work with the back-end
+	– Does the front-end work with the back-end
 • Regression testing
-– Test increment 1 after you add increment 2
+	– Test increment 1 after you add increment 2
 • Load testing
-– How is the system performance?
-– How is the system performance with a sensible
-number of users?
-Evaluate what you have built
+	– How is the system performance?
+	– How is the system performance with a sensible number of users?
 
-DEPLOY
+## Deploy
 • Cloud deployment
-– Data stores
-– Web services
-– AWS, Digital Ocean
+	– Data stores
+	– Web services
+	– AWS, Digital Ocean
 • Continuous integration?
-– Build tools that also deploy to server
-– Push to github triggers copy to web server
-Deploy
+	– Build tools that also deploy to server
+	– Push to github triggers copy to web server
 
-• Martin, R. (2008). Clean Code: A Handbook of Agile Software
-Craftsmanship (1 edition). Upper Saddle River, NJ: Prentice Hall.
-• Beck, K., & Andres, C. (2004). Extreme Programming Explained (2nd
-ed.). Boston, USA: Addison Wesley.
-• Schwaber, K., & Beedle, M. (2002). Agile Software Development with
-Scrum. Upper Saddle River, NJ, USA: Prentice Hall.
+• Martin, R. (2008). Clean Code: A Handbook of Agile Software Craftsmanship (1 edition). Upper Saddle River, NJ: Prentice Hall.
+• Beck, K., & Andres, C. (2004). Extreme Programming Explained (2nd ed.). Boston, USA: Addison Wesley.
+• Schwaber, K., & Beedle, M. (2002). Agile Software Development with Scrum. Upper Saddle River, NJ, USA: Prentice Hall.
 • Priestley, M. (2003). Practical Object-Oriented Design Using UML (2
 edition). London: McGraw-Hill Education / Europe, Middle East &
 Africa.
