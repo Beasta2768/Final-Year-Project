@@ -24,3 +24,8 @@
 	- lit review
 
 logbook up until week 4
+
+
+date
+what i did
+links to research

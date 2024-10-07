@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4/Week 4 (Lecture) Research Methods.md",
+                "file": "Logbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "c17150d6c39a3daf",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4/Week 4 (Lecture) Research Methods.md",
+                "file": "Logbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4/Week 4 (Lecture) Research Methods.md",
+                "file": "Logbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4/Week 4 (Lecture) Research Methods.md"
+                "file": "Logbook.md"
               }
             }
           },
@@ -175,8 +174,8 @@
   },
   "active": "a95461dacc4bd714",
   "lastOpenFiles": [
-    "Logbook.md",
     "Week 4/Week 4 (Lecture) Research Methods.md",
+    "Logbook.md",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Week 3/Week 3 (Lecture) Development methods.md",
     "Pasted image 20241007090852.png",
