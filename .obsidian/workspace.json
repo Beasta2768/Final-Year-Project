@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal.md",
+                "file": "Week 4/Week 4 (Lecture) Research Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "c17150d6c39a3daf",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposal.md",
+                "file": "Week 4/Week 4 (Lecture) Research Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposal.md",
+                "file": "Week 4/Week 4 (Lecture) Research Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal.md"
+                "file": "Week 4/Week 4 (Lecture) Research Methods.md"
               }
             }
           },
@@ -167,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +187,13 @@
   },
   "active": "a95461dacc4bd714",
   "lastOpenFiles": [
-    "Logbook.md",
+    "Week 3/Week 3 (Lecture) Development methods.md",
+    "Week 4/Week 4 (Lecture) Research Methods.md",
     "Proposal.md",
+    "Week 4",
+    "Logbook.md",
     "Final Year Project Mark Scheme.sheet.md",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
-    "Week 3/Week 3 (Lecture) Development methods.md",
     "New folder",
     "Week 3",
     "Templates/New Week Lecture.md",
