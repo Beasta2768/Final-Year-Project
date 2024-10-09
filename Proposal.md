@@ -13,8 +13,8 @@
 
 ## Objectives
 
- - Objective 1 - Design the user int
- - Objective 2 - 
+ - Objective 1 - Design the user interface
+ - Objective 2 - Find and test appropriate image recognition package
  - Objective 3 - 
  - Objective 4 - 
  - Objective 5 - 
