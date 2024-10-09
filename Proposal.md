@@ -7,9 +7,9 @@
 - Why is the project being undertaken
 	- The reason I am doing this project is because I want a photo storage web app that I can will generate collages that I could have an share with people. I want specifically an web app so I can access it from any device with an internet connection and also a phone.
 - How the client and customers will benefit from the project
-	- People will benefit from this by being able to upload a  curated set of images that they would want to be automatically put into a collage, allo
+	- People will benefit from this by being able to upload a  curated set of images that they would want to be automatically put into a collage, allowing their favourite memories to be encapsulated in one image
 - How is the student going to benefit from undertaking the project
-	-  I also want to develop my skills and knowledge of react as well as
+	-  The reason I took on this project is because I wanted to develop my knowledge and skills with the react framework. This is because I already have some basic experience with react by making a 
 
 ## Objectives
 
