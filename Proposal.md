@@ -1,7 +1,7 @@
 
 ## Introduction, Aim, Motivation and Background
 - What the aim of the project is
-	- 
+	- The aim of this project is to create a photo storage/album web application that uses 
 - Who is the project for: the client and their customers
 	- 
 - Why is the project being undertaken
