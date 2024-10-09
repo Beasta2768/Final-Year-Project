@@ -9,7 +9,7 @@
 - How the client and customers will benefit from the project
 	- People will benefit from this by being able to upload a  curated set of images that they would want to be automatically put into a collage, allowing their favourite memories to be encapsulated in one image
 - How is the student going to benefit from undertaking the project
-	-  The reason I took on this project is because I wanted to develop my knowledge and skills with the react framework. This is because I already have some basic experience with react by making a 
+	-  The reason I took on this project is because I wanted to develop my knowledge and skills with the react framework. This is because I already have some basic experience with react by making a react web app that interfaced with multiple API's by using promised using node.js and axios
 
 ## Objectives
 
