@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logbook.md",
+                "file": "Proposal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Week 4/Pasted image 20241007090628.png",
+                "file": "Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Week 4/Pasted image 20241007090628.png",
+                "file": "Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Week 4/Pasted image 20241007090628.png"
+                "file": "Proposal.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +158,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0139c45a6becfe1",
+  "active": "d47690652027a3be",
   "lastOpenFiles": [
+    "Logbook.md",
     "Images/Week 4/Pasted image 20241007090643.png",
     "Images/Week 4/Pasted image 20241007090852.png",
     "Images/Week 4",
@@ -168,7 +168,6 @@
     "Images/Week 4/Pasted image 20241007090719.png",
     "Images/Week 4/Pasted image 20241007090628.png",
     "Images",
-    "Logbook.md",
     "Week 4/Week 4 (Lecture) Research Methods.md",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Week 3/Week 3 (Lecture) Development methods.md",
