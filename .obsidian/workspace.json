@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,9 +203,9 @@
   },
   "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
-    "Logbook.md",
-    "Proposal.md",
     "Proposal Template.md",
+    "Proposal.md",
+    "Logbook.md",
     "Untitled.md",
     "Final Year Project Mark Scheme.sheet.md",
     "Images/Week 4/Pasted image 20241007090643.png",
