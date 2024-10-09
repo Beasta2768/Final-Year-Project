@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "65b2fb5f841503df",
+        "id": "bc5bf88614e6fad1",
         "type": "tabs",
-        "dimension": 52.81173594132029,
         "children": [
           {
-            "id": "26fcaf0384fe6a79",
+            "id": "0c5dc22c6a117d7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-view",
               "state": {
-                "file": "Proposal.md",
-                "mode": "source",
-                "source": false
+                "file": "Final Year Project Mark Scheme.sheet.md"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "4cd405121e166fbf",
-        "type": "tabs",
-        "dimension": 47.18826405867971,
-        "children": [
+          },
           {
-            "id": "a455285452a8034e",
+            "id": "3f5fb382b037c10c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "c17150d6c39a3daf",
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposal.md",
+                "file": "Final Year Project Mark Scheme.sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposal.md",
+                "file": "Final Year Project Mark Scheme.sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal.md"
+                "file": "Final Year Project Mark Scheme.sheet.md"
               }
             }
           },
@@ -180,10 +169,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26fcaf0384fe6a79",
+  "active": "0c5dc22c6a117d7a",
   "lastOpenFiles": [
-    "Proposal Template.md",
     "Proposal.md",
+    "Final Year Project Mark Scheme.sheet.md",
+    "Proposal Template.md",
     "Logbook.md",
     "Images/Week 4/Pasted image 20241007090643.png",
     "Images/Week 4/Pasted image 20241007090852.png",
@@ -196,7 +186,6 @@
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Week 3/Week 3 (Lecture) Development methods.md",
     "Week 4",
-    "Final Year Project Mark Scheme.sheet.md",
     "New folder",
     "Week 3",
     "Templates/New Week Lecture.md",
