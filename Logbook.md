@@ -1,6 +1,9 @@
 [[Final Year Project Mark Scheme.sheet|Mark Scheme]]
 
 - Project Idea  - Photo Storage web app with react, that uses image recognition to tag and organise images and create collages based on those tags.
+
+## Week 1
+
 ## Week 2 
 
 ### Seminar
@@ -18,7 +21,7 @@
 
 
 
-- objectives isnt just features of software
+- objectives isn't just features of software
 -  testing a part of objective
 	- background research
 	- lit review
@@ -29,3 +32,5 @@ logbook up until week 4
 date
 what i did
 links to research
+
+## Week 4
