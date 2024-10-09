@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposal Template.md",
+                "file": "Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposal Template.md",
+                "file": "Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal Template.md"
+                "file": "Proposal.md"
               }
             }
           },
@@ -201,10 +201,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f5fb382b037c10c",
+  "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
-    "Proposal.md",
     "Proposal Template.md",
+    "Proposal.md",
     "Logbook.md",
     "Untitled.md",
     "Final Year Project Mark Scheme.sheet.md",
