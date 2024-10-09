@@ -8,6 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7b3fea3ad66e9190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proposal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c7aaf84de4f0da09",
+        "type": "tabs",
+        "children": [
+          {
             "id": "0c5dc22c6a117d7a",
             "type": "leaf",
             "state": {
