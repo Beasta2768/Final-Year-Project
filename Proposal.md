@@ -23,11 +23,11 @@
  - Objective 6 - Test integrated image recognition
  - Objective 7  - Filter through stored images
  - Objective 8 - Deploy web app
- - Objective 8  - Write Dissertation
- - Objective 9 - Literature review
+ - Objective 9  - Write Dissertation
+ - Objective 10 - Literature review
 
 ## Development Requirements
-I will be using React and tailwind for the front end of my web app, or use bootstrap if tailwind doesn't work 
+I will be using React and tailwind for the front end of my web app, or use bootstrap if tailwind doesn't work. For the backend i plan to use node.js with axios 
 
 ## Methodology
 
