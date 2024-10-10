@@ -22,6 +22,7 @@
  - Objective 6 - Integrate the image recognition system with the image uploads
  - Objective 6 - Test integrated image recognition
  - Objective 7  - Filter through stored images
+ - Objective 8 - Deploy web app
  - Objective 8  - Write Dissertation
  - Objective 9 - Literature review
 
