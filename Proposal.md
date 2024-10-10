@@ -22,6 +22,7 @@
  - Objective 6 - Test integrated image recognition
  - Objective 7  - 
  - Objective 8  - Write Dissertation
+ - Objective 9 - Literature review
 
 ## Development Requirements
 
