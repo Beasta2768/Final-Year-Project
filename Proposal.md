@@ -14,9 +14,9 @@
 ## Objectives
 
  - Objective 1 - Design the user interface
- - Objective 2 -  Build User Interface
- - Objective 3 - Create a login/register system
- - Objective 4 - Add the ability to upload store and view images
+ - Objective 2 -  Implement User Interface
+ - Objective 3 - Implement a login/register system
+ - Objective 4 - Add the ability to upload store and view images and test
  - Objective 5 - Test image recognition package
  - Objective 6 - Integrate the image recognition system with the image uploads
  - Objective 6 - 
