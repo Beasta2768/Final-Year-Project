@@ -19,7 +19,7 @@
  - Objective 4 - Add the ability to upload store and view images and test
  - Objective 5 - Test image recognition package
  - Objective 6 - Integrate the image recognition system with the image uploads
- - Objective 6 - 
+ - Objective 6 - Test integrated image recognition
  - Objective 7  - 
  - Objective 8  -
 
