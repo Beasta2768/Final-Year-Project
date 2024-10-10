@@ -14,7 +14,7 @@
 
 ## Objectives
 
-- Objective 1 - Learn how to use tailwind 
+- Objective 1 - Learn how to use tailwind with react
  - Objective 1 - Design the user interface
  - Objective 2 -  Implement User Interface
  - Objective 3 - Implement a login/register system
