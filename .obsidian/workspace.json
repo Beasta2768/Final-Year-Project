@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook.md",
+                "file": "Proposal Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook.md",
+                "file": "Proposal Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook.md"
+                "file": "Proposal Template.md"
               }
             }
           },
@@ -214,11 +214,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23b985a0a5545479",
+  "active": "3f5fb382b037c10c",
   "lastOpenFiles": [
+    "Logbook.md",
     "Proposal.md",
     "Proposal Template.md",
-    "Logbook.md",
     "Untitled.md",
     "Final Year Project Mark Scheme.sheet.md",
     "Images/Week 4/Pasted image 20241007090643.png",
