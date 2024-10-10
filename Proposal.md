@@ -10,6 +10,7 @@
 	- People will benefit from this by being able to upload a  curated set of images that they would want to be automatically put into a collage, allowing their favourite memories to be encapsulated in one image
 - How is the student going to benefit from undertaking the project
 	-  The reason I took on this project is because I wanted to develop my knowledge and skills with the react framework. This is because I already have some basic experience with react by making a react web app that interfaced with multiple API's by using promised using node.js and axios. And that project made be want to create more  developed web application with react . I also wanted to get a better understanding of service workers as my previous experience with and knowledge of service workers was shallow. I have also This project would allow me to further develop my understanding these tools.
+	- tailwing - 
 
 ## Objectives
 
@@ -25,6 +26,7 @@
  - Objective 9 - Literature review
 
 ## Development Requirements
+I will be using React and tailwind for the front end of my 
 
 ## Methodology
 
