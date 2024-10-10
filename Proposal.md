@@ -14,6 +14,7 @@
 
 ## Objectives
 
+- Objective 1 - Learn how to use tailwind 
  - Objective 1 - Design the user interface
  - Objective 2 -  Implement User Interface
  - Objective 3 - Implement a login/register system
@@ -27,7 +28,7 @@
  - Objective 10 - Literature review
 
 ## Development Requirements
-I will be using React and tailwind for the front end of my web app, or use bootstrap if tailwind doesn't work. For the backend i plan to use node.js with axios 
+I will be using React and tailwind for the front end of my web app, or use bootstrap if tailwind doesn't work. For the backend I plan to use node.js with axios 
 
 ## Methodology
 
