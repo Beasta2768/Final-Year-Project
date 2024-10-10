@@ -21,7 +21,7 @@
  - Objective 6 - Integrate the image recognition system with the image uploads
  - Objective 6 - Test integrated image recognition
  - Objective 7  - 
- - Objective 8  -
+ - Objective 8  - Write Dissertation
 
 ## Development Requirements
 
