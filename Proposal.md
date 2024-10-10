@@ -28,7 +28,7 @@
  - Objective 10 - Literature review
 
 ## Development Requirements
-I will be using React and tailwind for the front end of my web app, or use bootstrap if tailwind doesn't work. For the backend I plan to use node.js with axios to intergrate with database and api calls
+I will be using React and tailwind for the front end of my web app, or use bootstrap if tailwind doesn't work. For the backend I plan to use node.js with axios to integrate with database and API calls.
 
 ## Methodology
 
