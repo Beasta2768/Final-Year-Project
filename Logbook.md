@@ -20,7 +20,6 @@
 	- mention the parts of agile that is being used
 
 
-
 - objectives isn't just features of software
 -  testing a part of objective
 	- background research
@@ -32,5 +31,4 @@ logbook up until week 4
 date
 what i did
 links to research
-
 ## Week 4
