@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "2ec236124d7c0d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e3afaaae49f373e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Logbook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63f74837cee7cb80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,21 +52,27 @@
                 "file": "Final Year Project Mark Scheme.sheet.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e0c32a59d672170f",
+        "type": "tabs",
+        "children": [
           {
-            "id": "63f74837cee7cb80",
+            "id": "2cffd5db938f830c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md",
+                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,11 +215,11 @@
   },
   "active": "e3afaaae49f373e9",
   "lastOpenFiles": [
-    "Week 1/Week 1 (Lecture) Final Year Projects.md",
-    "Proposal.md",
-    "Logbook.md",
-    "Final Year Project Mark Scheme.sheet.md",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
+    "Final Year Project Mark Scheme.sheet.md",
+    "Logbook.md",
+    "Proposal.md",
+    "Week 1/Week 1 (Lecture) Final Year Projects.md",
     "Week 3/Week 3 (Lecture) Development methods.md",
     "Proposal Template.md",
     "Untitled.md",

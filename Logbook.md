@@ -35,6 +35,11 @@
 
 ## Week 2 (23/09/24)
 ## Lecture & Seminar
+- We covered proposal writing during the lecture including:
+	- Things the proposal should include
+		- What you are going to do
+		- Who the project could benefit
+		- The 
  - Project should be more complicated than second year CSS
  - Should be mindful of ethical approval - and the implication of the topic/ project idea I choose
 	 - might have to adjust project to fit with ethical approval, and reduce the load of work for 
@@ -43,7 +48,7 @@
 
 ## Advanced web development
 
-## Project Development
+## Project Development (25-26/09/24)
 
 ## Week 3 (30/09/24)
 
