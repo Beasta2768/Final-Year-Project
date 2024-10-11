@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17860d4a8daac3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "c17150d6c39a3daf",
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposal.md",
+                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposal.md",
+                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal.md"
+                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md"
               }
             }
           },
@@ -201,11 +212,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b3fea3ad66e9190",
+  "active": "17860d4a8daac3eb",
   "lastOpenFiles": [
-    "Logbook.md",
     "Proposal.md",
     "Proposal Template.md",
+    "Logbook.md",
     "Final Year Project Mark Scheme.sheet.md",
     "Untitled.md",
     "Untitled 1.md",
