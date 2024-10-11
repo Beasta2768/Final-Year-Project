@@ -94,8 +94,12 @@
 -  In this week lecture we covered research methods for out project
 	- This included a literature review, which would serve and an introduction to out project and help justify and give it context with critical evaluation of relevant projects
 		- It should start with identifying key concepts of the project and use as wide of a range of sources as possible
-			- Each source should have a
+			- Each source should have a list of identifying information like title, authors, keywords/topic and a brief summary of the source. To help write the review
+			- Sources should also be appropriately referenced using APA 7 the university's referencing standard
 
 ###  Project Development (16-17/10/24)
+- This weeks project development mainly focused of finishing an polishing my project proposal by setting my objectives and writing my development requirements
+	- I also made a Gantt chart using my objectives to put at the end of my proposal
 
 ###  Advanced web development
+-  This week we covered routing with syphony and templates
