@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c7aaf84de4f0da09",
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook.md",
+                "file": "Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook.md",
+                "file": "Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook.md"
+                "file": "Proposal.md"
               }
             }
           },
@@ -202,11 +201,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23b985a0a5545479",
+  "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
+    "Logbook.md",
     "Proposal.md",
     "Proposal Template.md",
-    "Logbook.md",
     "Final Year Project Mark Scheme.sheet.md",
     "Untitled.md",
     "Untitled 1.md",
