@@ -66,12 +66,11 @@
 ### # Lecture & Seminar
 - The lecture this week covered different development methods we could use for our projects:
 	- We covered research based projects that pick a topic and research about it and create a product, with their project being focused on answering a research question and and code done/ app made would be used to help find the answer to that research question
-	- We also covered the agile methodology and how it used it
-
-- Mention what other methods apart from agile
-	- mention the parts of agile that is being used
-
-
+	- We also covered the agile methodology and how it uses an iterative and incremental cycle where you complete sections of your project going through the whole development cycle
+- The seminar this week we covered more proposal writing tips
+	- We went over writing about alternative methods that could be used in your proposal methodology and why you wouldn't be using them
+		- also to talk what parts of your chosen  the methodology you are using  and not using
+-  we also covered how out project objectives shouldn't just be software features and should include parts of the development cycle like testi
 - objectives isn't just features of software
 -  testing a part of objective
 	- background research
