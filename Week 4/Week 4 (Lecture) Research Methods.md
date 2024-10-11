@@ -65,10 +65,9 @@
 	- Evaluate and discuss its results.
 
 ## Project Management
-- The importance of planning should be the rule
-for every stage of the project if the project is to be successful
+- The importance of planning should be the rule for every stage of the project if the project is to be successful
 - Failing to plan is planning for failure
-- SMART (Specific, Measurable, Appropriate,Realistic, Timely) Objectives
+- SMART (Specific, Measurable, Appropriate, Realistic, Timely) Objectives
 - Tasks, Deliverables, Milestones, Gantt Chart
 
 ## Literature Review

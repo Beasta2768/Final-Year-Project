@@ -83,12 +83,15 @@
 - During this week we covered templating and how it works in symphony.
 	- We covered how templating is the process of making placeholder values for content on a web page so actual values can be put in at a later stage after some data processing has occurred
 	- We talked about how traditional php templating put you at risk of code injection and the fact that it was hard to maintain as the values were hard to transfer between different templates
-		- The solution to
-
+		- The solution to this was to use twig, a templating engine which protected your from code injection. As well as the templating engine processing the code then outputting it in php.
+	- Development benefits of templating allows us to avoid D.R.Y code
+	- We also covered twig syntax and the concept of inheriting templates  making it easy to transfer values between templates
 
 ## Week 4 (07/10/24)
 
 ###  Lecture & Seminar
+-  In this week lecture we covered research methods for out project
+	- This included 
 
 ###  Project Development (2-3/10/24)
 
