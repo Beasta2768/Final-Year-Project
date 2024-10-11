@@ -24,6 +24,9 @@
 	   - Finished project demonstration
 	   - Has to be deployed in a live environment and be accessible through an app or a website
 
+## Advanced web development
+-  this week was an introduction to the module we 
+
 
 ## Week 2 
 
@@ -32,7 +35,7 @@
  - Should be mindful of ethical approval - and the implication of the topic/ project idea I choose
 	 - might have to adjust project to fit with ethical approval, and reduce the load of work for 
 - Project would most likely end up being a proto-type so focus on what the final project would be capable of doing
-	- However don't keep leave time for writ-up and not just focus on packing a lot of features into the project for the sake of it
+	- However don't keep leave time for write-up and not just focus on packing a lot of features into the project for the sake of it
 
 ## Week 3
 
