@@ -64,7 +64,9 @@
 
 ## Week 3 (30/09/24)
 ### # Lecture & Seminar
-- The lecture this week covered different development methods we could use for our projects
+- The lecture this week covered different development methods we could use for our projects:
+	- We covered research based projects that pick a topic and research about it and create a product, with their project being focused on answering a research question and and code done/ app made would be used to help find the answer to that research question
+	- We also covered the agile methodology and how it used it
 
 - Mention what other methods apart from agile
 	- mention the parts of agile that is being used
