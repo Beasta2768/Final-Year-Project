@@ -29,6 +29,6 @@
 
 ## Development Requirements
 I will be using React and tailwind for the front end of my web app, or use bootstrap if tailwind doesn't work. For the backend I plan to use node.js with axios to integrate with database and API calls.
-The main development environment I plan on using is visual studio code, it is a code editor
+The main development environment I plan on using is visual studio code, it is a code editor that I am familiar with as I have used it in the past for previous react projects. Their extentions allow for easier coding using different frameworks, enviroments and languages
 ## Methodology
 
