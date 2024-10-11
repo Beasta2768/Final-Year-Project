@@ -4,6 +4,17 @@
 
 ## Week 1
 
+## Seminar
+-  FYP is meant to demonstrate students ability to work on a longer term project individually
+- Assessment Breakdown
+1.  Project proposal  - 10%  
+	1. Literature review and Methodology - 15%  
+	2. Abstract and Introduction  and Requirements to Conclusions - 35%  
+	3. Work Done - 20%  
+	4. Professional Working Practices - 10%  
+	5. Presentation - 10%
+
+
 ## Week 2 
 
 ### Seminar
