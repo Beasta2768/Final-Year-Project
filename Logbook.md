@@ -2,7 +2,7 @@
 
 - Project Idea  - Photo Storage web app with react, that uses image recognition to tag and organise images and create collages based on those tags.
 
-## Week 1
+## Week 1 ()
 
 ## Lecture
 -  FYP is meant to demonstrate students ability to work on a longer term project individually
@@ -32,7 +32,7 @@
 ## Project Development
 -  For this week with my project development, I have yet to think of an idea for my project. However I know that I want my project to use the react frame work and so it would need to be a web based project. I for next week I want to find a project idea that I could find interesting, but I have  no idea of what it may be right now
 
-## Week 2 
+## Week 2 ()
 
 ### Seminar
  - Project should be more complicated than second year CSS
@@ -41,7 +41,7 @@
 - Project would most likely end up being a proto-type so focus on what the final project would be capable of doing
 	- However don't keep leave time for write-up and not just focus on packing a lot of features into the project for the sake of it
 
-## Week 3
+## Week 3 ()
 
 ### Seminar
 - Mention what other methods apart from agile
