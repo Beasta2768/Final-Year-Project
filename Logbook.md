@@ -53,7 +53,7 @@
 	- Engagement and attendance in the seminars is important at it count toward the working professional section of our proposal grade
 
 ## Advanced web development
-- This week we covered frameworks and what they were 
+- This week we covered frameworks and the framework we would be using in the project 
 
 ## Project Development (25-26/09/24)
 
