@@ -31,7 +31,7 @@
 I will be using React and tailwind for the front end of my web app, or use bootstrap if tailwind doesn't work. For the backend I plan to use node.js with axios to integrate with database and API calls.
 The main development environment I plan on using is visual studio code, it is a code editor that I am familiar with as I have used it in the past for previous react projects. Their extensions allow for easier coding using different frameworks, environments and languages, allowing me to easily use react, tailwind and node.js with axios in the same environment.
 I will be using React and tailwind for the front end of my web app, or use bootstrap if tailwind doesn't work. For the backend I plan to use node.js with axios to integrate with database and API calls.
-For my database to store
+For my database to storage solution I am initially planning on using firebases cloud storage
 
 ## Methodology
 
