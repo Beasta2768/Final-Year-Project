@@ -75,9 +75,12 @@
 	- My feedback was to look into the viability of image recognition with the react framework since I already had an idea of the framework that I wanted to use.
 
 ###  Project Development (2-3/10/24)
-- For the third week I followed my supervisors feedback form earlier in the week and develo
+- For the third week I followed my supervisors feedback form earlier in the week and tested an image recognition module from node. 
+	- ![[Pasted image 20241011142746.png]]
+	- I created a new react app to test how viable this was, I use the tensor-flow module in node and made a basic UI with an image upload form.
+		- I tested it with an apple and got a response after around 12 second of an apple with 95.04% confidence on whether it was correct
 ###  Advanced web development
-
+- During this week we covered
 
 
 ## Week 4 (07/10/24)
