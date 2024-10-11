@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "8014bce2c29de5d2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241011142746.png"
+              }
+            }
+          },
+          {
             "id": "63f74837cee7cb80",
             "type": "leaf",
             "state": {
@@ -54,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e0c32a59d672170f",
@@ -139,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook.md",
+                "file": "Pasted image 20241011142746.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook.md",
+                "file": "Pasted image 20241011142746.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook.md"
+                "file": "Pasted image 20241011142746.png"
               }
             }
           },
@@ -213,10 +223,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3afaaae49f373e9",
+  "active": "8014bce2c29de5d2",
   "lastOpenFiles": [
-    "Week 4/Week 4 (Lecture) Research Methods.md",
     "Logbook.md",
+    "Week 4/Week 4 (Lecture) Research Methods.md",
     "Week 3/Week 3 (Lecture) Development methods.md",
     "Pasted image 20241011142746.png",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
