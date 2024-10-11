@@ -39,14 +39,21 @@
 	- Things the proposal should include
 		- What you are going to do
 		- Who the project could benefit
-		- The 
- - Project should be more complicated than second year CSS
- - Should be mindful of ethical approval - and the implication of the topic/ project idea I choose
-	 - might have to adjust project to fit with ethical approval, and reduce the load of work for 
-- Project would most likely end up being a proto-type so focus on what the final project would be capable of doing
-	- However don't keep leave time for write-up and not just focus on packing a lot of features into the project for the sake of it
+		- The reasons you are doing the project
+		- The objectives of the project
+		- Methodology of the project i.e. waterfall, agile etc.
+		- Gantt chart and logbook
+	- The proposal would be due in week 4 (wb 07/10/24)
+- During the Seminar covered :
+	 - Project should be more complicated than second year CSS
+	 - Should be mindful of ethical approval - and the implication of the topic/ project idea I choose
+		 - might have to adjust project to fit with ethical approval, and reduce the load of work for 
+	- Project would most likely end up being a proto-type so focus on what the final project would be capable of doing
+		- However don't keep leave time for write-up and not just focus on packing a lot of features into the project for the sake of it
+	- Engagement and attendance in the seminars is important at it count toward the working professional section of our proposal grade
 
 ## Advanced web development
+- This week we covered frameworks and what they were 
 
 ## Project Development (25-26/09/24)
 
