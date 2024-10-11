@@ -33,6 +33,6 @@ The main development environment I plan on using is visual studio code, it is a 
 I will be using React and tailwind for the front end of my web app, or use bootstrap if tailwind doesn't work. For the backend I plan to use node.js with axios to integrate with database and API calls.
 For my database to storage solution I am initially planning on using firebases cloud storage option on the spark plan. The reason I have initially went for this option is familiarity with using firebase in react as I have used it in the past with a previous react project. The spark plan is a free plan with monthly limits of 5gb if image storage, which would be about 2,500 high resolution photos, and a transfer limit of 30gb (15,000 high-res photos) and 2 million downloads and uploads. Although 2,500 high resolution images are a lot, the project is small scale and the web app is meant for a curated set of images over time. However I will be looking into other database solutions and settle on one before by the time I finish the user interface.
 
-For tracking project progress i will be using a trello boardGant chart will be made using teamgantt
+For tracking project progress I will be using a trello for a kanban board and teamgantt for a gant chart. Im using these sites because
 
 ## Methodology
