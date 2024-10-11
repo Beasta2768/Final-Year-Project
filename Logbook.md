@@ -2,9 +2,9 @@
 
 - Project Idea  - Photo Storage web app with react, that uses image recognition to tag and organise images and create collages based on those tags.
 
-## Week 1 ()
+## Week 1 (16/09/24)
 
-## Lecture
+## Lecture & Seminar
 -  FYP is meant to demonstrate students ability to work on a longer term project individually
 - Assessment Breakdown
 	1.  Project proposal  - 10%  
@@ -23,25 +23,29 @@
 	6. Presentation - 10%
 	   - Finished project demonstration
 	   - Has to be deployed in a live environment and be accessible through an app or a website
+   - We also covered logbooks and how they should document your progress throughout the project development process
 
 ## Advanced web development
 -  this week was an introduction to the module where we had a brief summary of the lecture the history of the web, and how the web developed from static to dynamic pages. 
 - We also covered data exchange formats used in the web like XML, CSV and JSON, with JSON and XML being the most prominent of the three in the modern era
 	- With notably widespread use in web API's to transfer information on request
 
-## Project Development
--  For this week with my project development, I have yet to think of an idea for my project. However I know that I want my project to use the react frame work and so it would need to be a web based project. I for next week I want to find a project idea that I could find interesting, but I have  no idea of what it may be right now
+## Project Development (18-19/09/24)
+-  For this week with my project development, I have yet to think of an idea for my project. However I know that I want my project to use the react frame work and so it would need to be a web based project. I for next week I want to find a project idea that I could find interesting, but I don't have an idea of what my project could be.
 
-## Week 2 ()
-
-### Seminar
+## Week 2 (23/09/24)
+## Lecture & Seminar
  - Project should be more complicated than second year CSS
  - Should be mindful of ethical approval - and the implication of the topic/ project idea I choose
 	 - might have to adjust project to fit with ethical approval, and reduce the load of work for 
 - Project would most likely end up being a proto-type so focus on what the final project would be capable of doing
 	- However don't keep leave time for write-up and not just focus on packing a lot of features into the project for the sake of it
 
-## Week 3 ()
+## Advanced web development
+
+## Project Development
+
+## Week 3 (30/09/24)
 
 ### Seminar
 - Mention what other methods apart from agile
@@ -59,4 +63,4 @@ logbook up until week 4
 date
 what i did
 links to research
-## Week 4
+## Week 4 (07/10/24)
