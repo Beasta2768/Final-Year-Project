@@ -53,7 +53,8 @@
 	- Engagement and attendance in the seminars is important at it count toward the working professional section of our proposal grade
 
 ## Advanced web development
-- This week we covered frameworks and the framework we would be using in the project 
+- This week we covered frameworks and the framework we would be using during the module symfony. Symfony is a PHP framework that allows you to build PHP web applications faster due to the generic modules it offers.
+	- When symphony gets a web request (/about) it goes through the kernel which takes it to the controller where the code for the view is developed
 
 ## Project Development (25-26/09/24)
 
