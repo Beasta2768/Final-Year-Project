@@ -54,6 +54,8 @@
 
 ## Project Development (25-26/09/24)
 - For the second week of project development I decided on making a Photo Storage web app using react, but since that wasn't a complex enough  project I decide to add image recognition that tags and organise images uploaded to the web app to create collages based on those tags.
+	- This project aims to help people get a curated set of collages through the use of AI
+	- I plan to use an image recognition framework in node.js as that is the back end solution that I am initially planning on using.
 
 ## Advanced web development
 - This week we covered frameworks and the framework we would be using during the module symfony. Symfony is a PHP framework that allows you to build PHP web applications faster due to the generic modules it offers.
@@ -61,8 +63,16 @@
 
 
 ## Week 3 (30/09/24)
+## Lecture & Seminar
+
+## Project Development (2-3/10/24)
+
+## Advanced web development
+
 
 ### Seminar
+- The lecture this week covered different development methods we could use for our projects
+
 - Mention what other methods apart from agile
 	- mention the parts of agile that is being used
 
@@ -79,3 +89,9 @@ date
 what i did
 links to research
 ## Week 4 (07/10/24)
+
+## Lecture & Seminar
+
+## Project Development (2-3/10/24)
+
+## Advanced web development
