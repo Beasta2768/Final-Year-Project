@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
+                "file": "Week 3/Week 3 (Lecture) Development methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
+                "file": "Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
+                "file": "Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md"
+                "file": "Proposal.md"
               }
             }
           },
@@ -212,10 +212,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17860d4a8daac3eb",
+  "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
-    "Week 1/Week 1 (Lecture) Final Year Projects.md",
+    "Week 3/Week 3 (Lecture) Development methods.md",
+    "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Proposal.md",
+    "Week 1/Week 1 (Lecture) Final Year Projects.md",
     "Proposal Template.md",
     "Final Year Project Mark Scheme.sheet.md",
     "Logbook.md",
@@ -229,8 +231,6 @@
     "Images/Week 4/Pasted image 20241007090628.png",
     "Images",
     "Week 4/Week 4 (Lecture) Research Methods.md",
-    "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
-    "Week 3/Week 3 (Lecture) Development methods.md",
     "Week 4",
     "New folder",
     "Week 3",
