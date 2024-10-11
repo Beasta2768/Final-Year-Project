@@ -25,7 +25,9 @@
 	   - Has to be deployed in a live environment and be accessible through an app or a website
 
 ## Advanced web development
--  this week was an introduction to the module we 
+-  this week was an introduction to the module where we had a brief summary of the lecture the history of the web, and how the web developed from static to dynamic pages. 
+- We also covered data exchange formats used in the web like XML, CSV and JSON, with JSON and XML being the most prominent of the three in the modern era
+	- With notably widespread use in API
 
 
 ## Week 2 
