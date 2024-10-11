@@ -27,8 +27,10 @@
 ## Advanced web development
 -  this week was an introduction to the module where we had a brief summary of the lecture the history of the web, and how the web developed from static to dynamic pages. 
 - We also covered data exchange formats used in the web like XML, CSV and JSON, with JSON and XML being the most prominent of the three in the modern era
-	- With notably widespread use in API
+	- With notably widespread use in web API's to transfer information on request
 
+## Project Development
+-  For this week with my project development, I have yet to think of an idea for my project. However I know that I want my project to use the react frame work and so it would need to be a web based project. I for next week I want to find a project idea that I could find interesting, but I have  no idea of what it may be right now
 
 ## Week 2 
 
