@@ -36,4 +36,4 @@ For my database to storage solution I am initially planning on using firebases c
 For tracking project progress I will be using a Trello for a Kanban board and teamgantt for a Gant chart. I am using these sites because they are free to use and I have used them before.
 
 ## Methodology
-This project will be made using the agile methodology for this project. I am using agile because agile incremental
+This project will be made using the agile methodology for this project. I am using agile because agile's  incremental and iterative processes allow for 
