@@ -80,7 +80,10 @@
 	- I created a new react app to test how viable this was, I use the tensor-flow module in node and made a basic UI with an image upload form.
 		- I tested it with an apple and got a response after around 12 second of an apple with 95.04% confidence on whether it was correct
 ###  Advanced web development
-- During this week we covered
+- During this week we covered templating and how it works in symphony.
+	- We covered how templating is the process of making placeholder values for content on a web page so actual values can be put in at a later stage after some data processing has occurred
+	- We talked about how traditional php templating put you at risk of code injection and the fact that it was hard to maintain as the values were hard to transfer between different templates
+		- The solution to
 
 
 ## Week 4 (07/10/24)
