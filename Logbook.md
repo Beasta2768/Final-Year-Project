@@ -102,4 +102,7 @@
 	- I also made a Gantt chart using my objectives to put at the end of my proposal
 
 ###  Advanced web development
--  This week we covered routing with syphony and templates
+-  This week we covered routing with symphony and templates as well as annotations
+	- we went over some key syntax to the Yamal files used for routing in symphony and how it reads routing files from top to bottom. So your more specific routes should be at the top of the file with your basic ones at the bottom
+	- We also covered annotations and how they work in php versions 8+ vs how they did in 7 and below.
+		- With the modern versions no logger using comments but rather being part of the attributes of a routing function
