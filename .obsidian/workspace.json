@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md",
+                "file": "Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md",
+                "file": "Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md"
+                "file": "Proposal.md"
               }
             }
           },
@@ -212,8 +212,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17860d4a8daac3eb",
+  "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
+    "Week 1/Week 1 (Lecture) Final Year Projects.md",
     "Proposal.md",
     "Proposal Template.md",
     "Logbook.md",
@@ -234,7 +235,6 @@
     "New folder",
     "Week 3",
     "Templates/New Week Lecture.md",
-    "Week 1/Week 1 (Lecture) Final Year Projects.md",
     "Week 2",
     "Week 1",
     "Final Year Project Mark Sheet.xlsx",
