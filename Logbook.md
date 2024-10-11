@@ -79,6 +79,7 @@
 	- ![[Pasted image 20241011142746.png]]
 	- I created a new react app to test how viable this was, I use the tensor-flow module in node and made a basic UI with an image upload form.
 		- I tested it with an apple and got a response after around 12 second of an apple with 95.04% confidence on whether it was correct
+	- I also started writing my project proposal with my intro and motivation as well as the methodology I planned on using
 ###  Advanced web development
 - During this week we covered templating and how it works in symphony.
 	- We covered how templating is the process of making placeholder values for content on a web page so actual values can be put in at a later stage after some data processing has occurred
@@ -91,8 +92,10 @@
 
 ###  Lecture & Seminar
 -  In this week lecture we covered research methods for out project
-	- This included 
+	- This included a literature review, which would serve and an introduction to out project and help justify and give it context with critical evaluation of relevant projects
+		- It should start with identifying key concepts of the project and use as wide of a range of sources as possible
+			- Each source should have a
 
-###  Project Development (2-3/10/24)
+###  Project Development (16-17/10/24)
 
 ###  Advanced web development
