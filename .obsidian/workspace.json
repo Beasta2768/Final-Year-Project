@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c7aaf84de4f0da09",
@@ -65,14 +66,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3/Week 3 (Lecture) Development methods.md",
+                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "c17150d6c39a3daf",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposal.md",
+                "file": "Logbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposal.md",
+                "file": "Logbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal.md"
+                "file": "Logbook.md"
               }
             }
           },
@@ -213,12 +213,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b3fea3ad66e9190",
+  "active": "23b985a0a5545479",
   "lastOpenFiles": [
-    "Proposal Template.md",
-    "Proposal.md",
-    "Week 3/Week 3 (Lecture) Development methods.md",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
+    "Week 3/Week 3 (Lecture) Development methods.md",
+    "Proposal.md",
+    "Proposal Template.md",
     "Week 1/Week 1 (Lecture) Final Year Projects.md",
     "Final Year Project Mark Scheme.sheet.md",
     "Logbook.md",
