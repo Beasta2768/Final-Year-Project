@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "4387609dd5ee0249",
+            "type": "leaf",
+            "state": {
+              "type": "excel-view",
+              "state": {
+                "file": "Final Year Project Mark Scheme.sheet.md"
+              }
+            }
+          },
+          {
             "id": "63f74837cee7cb80",
             "type": "leaf",
             "state": {
@@ -198,10 +208,10 @@
   },
   "active": "e3afaaae49f373e9",
   "lastOpenFiles": [
-    "Week 1/Week 1 (Lecture) Final Year Projects.md",
-    "Logbook.md",
-    "Proposal.md",
     "Final Year Project Mark Scheme.sheet.md",
+    "Logbook.md",
+    "Week 1/Week 1 (Lecture) Final Year Projects.md",
+    "Proposal.md",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Week 3/Week 3 (Lecture) Development methods.md",
     "Proposal Template.md",

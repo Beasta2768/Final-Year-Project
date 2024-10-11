@@ -17,9 +17,12 @@
 	3. Abstract and Introduction  and Requirements to Conclusions - 35%  
 	   - Majority of the marks so is impotent to do well and start as early as possible
 	4. Work Done - 20%  
-	   - Engagement in seminars and with the pro
+	   - project progress as a whole
 	5. Professional Working Practices - 10%  
+	   - Engagement and attendance of seminars is important for this
 	6. Presentation - 10%
+	   - Finished project demonstration
+	   - Has to be deployed in a live environment and be accessible through an app or a website
 
 
 ## Week 2 
