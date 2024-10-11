@@ -70,21 +70,12 @@
 - The seminar this week we covered more proposal writing tips
 	- We went over writing about alternative methods that could be used in your proposal methodology and why you wouldn't be using them
 		- also to talk what parts of your chosen  the methodology you are using  and not using
--  we also covered how out project objectives shouldn't just be software features and should include parts of the development cycle like testi
-- objectives isn't just features of software
--  testing a part of objective
-	- background research
-	- lit review
-
-logbook up until week 4
-
-
-date
-what i did
-links to research
+-  we also covered how out project objectives shouldn't just be software features and should include parts of the development cycle like testing.
+-  We also shared out project ideas with our project supervisors to get feedback on any potential problems
+	- My feedback was to look into the viability of image recognition with the react framework since I already had an idea of the framework that I wanted to use.
 
 ###  Project Development (2-3/10/24)
-
+- For the third week I followed my supervisors feedback form earlier in the week and develo
 ###  Advanced web development
 
 
