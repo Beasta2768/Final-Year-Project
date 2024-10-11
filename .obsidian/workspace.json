@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ec236124d7c0d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposal.md",
+                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposal.md",
+                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal.md"
+                "file": "Week 1/Week 1 (Lecture) Final Year Projects.md"
               }
             }
           },
@@ -159,13 +172,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b3fea3ad66e9190",
+  "active": "2ec236124d7c0d6c",
   "lastOpenFiles": [
+    "Proposal.md",
     "Final Year Project Mark Scheme.sheet.md",
     "Logbook.md",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Week 3/Week 3 (Lecture) Development methods.md",
-    "Proposal.md",
     "Proposal Template.md",
     "Week 1/Week 1 (Lecture) Final Year Projects.md",
     "Untitled.md",
