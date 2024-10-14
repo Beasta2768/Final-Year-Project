@@ -1,5 +1,5 @@
 {
-  "findText": "^[0-9]",
+  "findText": "^\\s",
   "replaceText": "",
   "useRegEx": true,
   "selOnly": false,

@@ -6,6 +6,7 @@
       {
         "id": "bc5bf88614e6fad1",
         "type": "tabs",
+        "dimension": 68.76528117359413,
         "children": [
           {
             "id": "7b3fea3ad66e9190",
@@ -26,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Logbook.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -59,6 +60,7 @@
       {
         "id": "e0c32a59d672170f",
         "type": "tabs",
+        "dimension": 31.234718826405867,
         "children": [
           {
             "id": "2cffd5db938f830c",
