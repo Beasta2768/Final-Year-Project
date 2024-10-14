@@ -105,7 +105,10 @@
 
 ## Week 4 (14/10/24)
 ### Lecture & Seminar
--  During the seminar we discussed the risk assessment and how it would
+-  During the first part of  the seminar we discussed the risk assessment due on Friday and how we should approach it
+- For the rest of the seminar we discussed the literature review and how to approach the project
+	- We discussed how we should do some proof of concepts for some of the tech-stacks we are using
+		- Same thing for hosting, if we are using hosting methods other than Poseidon we should talk with our supervisor to get approval for it.
 ### Project Development (16-17/10/24)
 
 ### Advanced web development
