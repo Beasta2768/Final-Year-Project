@@ -5,25 +5,22 @@
 -  FYP is meant to demonstrate students ability to work on a longer term project individually
 - Assessment Breakdown
  1.  Project proposal  - 10% 
- - Document that includes:
-
-	- the reasons you are doing the project
-
-	- the methodology you will be using
-
-	- the objectives of the project
- 1. Literature review and Methodology - 15% 
- - Review of the reading done for the project (relevant documentation counts)
- 2. Abstract and Introduction  and Requirements to Conclusions - 35% 
- - Majority of the marks so is impotent to do well and start as early as possible
- 3. Work Done - 20% 
- - project progress as a whole
- 4. Professional Working Practices - 10% 
- - Engagement and attendance of seminars is important for this
- 5. Presentation - 10%
- - Finished project demonstration
- - Has to be deployed in a live environment and be accessible through an app or a website
-  - We also covered logbooks and how they should document your progress throughout the project development process
+	 - Document that includes:
+		- the reasons you are doing the project
+		- the methodology you will be using
+		- the objectives of the project
+ 2. Literature review and Methodology - 15% 
+	 - Review of the reading done for the project (relevant documentation counts)
+ 3. Abstract and Introduction  and Requirements to Conclusions - 35% 
+	 - Majority of the marks so is impotent to do well and start as early as possible
+ 4. Work Done - 20% 
+	 - project progress as a whole
+ 5. Professional Working Practices - 10% 
+	 - Engagement and attendance of seminars is important for this
+ 6. Presentation - 10%
+	 - Finished project demonstration
+	 - Has to be deployed in a live environment and be accessible through an app or a website
+	  - We also covered logbooks and how they should document your progress throughout the project development process
 ### Project Development (18-19/09/24)
 -  For this week with my project development, I have yet to think of an idea for my project. However, I know that I want my project to use the React framework so it would need to be a web-based project. I for next week I want to find a project idea that I could find interesting, but I don't have an idea of what my project could be.
 ### Advanced web development
@@ -34,26 +31,20 @@
 ### Lecture & Seminar
 - We covered proposal writing during the lecture including:
 - Things the proposal should include
-
  - What you are going to do
-
- - Who the project could benefit
-
+- Who the project could benefit
  - The reasons you are doing the project
-
  - The objectives of the project
-
  - Methodology of the project i.e. waterfall, agile etc.
-
  - Gantt chart and logbook
 - The proposal would be due in week 4 (wb 07/10/24)
 - During the Seminar covered :
-- Project should be more complicated than second-year CSS
-- Should be mindful of ethical approval - and the implication of the topic/ project idea I choose
- - I might have to adjust the project to fit with ethical approval, and reduce the load of work for
-- Project would most likely end up being a proto-type so focus on what the final project would be capable of doing
- - However, don't keep leave time for write-up and not to  just focus on packing a lot of features into the project for the sake of it
-- Engagement and attendance in the seminars are important at they count toward the working professional section of our proposal grade
+	- Project should be more complicated than second-year CSS
+	- Should be mindful of ethical approval - and the implication of the topic/ project idea I choose
+	 - I might have to adjust the project to fit with ethical approval, and reduce the load of work for
+	- Project would most likely end up being a proto-type so focus on what the final project would be capable of doing
+	 - However, don't keep leave time for write-up and not to  just focus on packing a lot of features into the project for the sake of it
+	- Engagement and attendance in the seminars are important at they count toward the working professional section of our proposal grade
 ### Project Development (25-26/09/24)
 - For the second week of project development I decided on making a Photo Storage web app using React, but since that wasn't a complex enough project I decided to add image recognition that tags and organise images uploaded to the web app to create collages based on those tags.
  - This project aims to help people get a curated set of collages through the use of AI
