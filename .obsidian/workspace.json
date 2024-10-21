@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logbook.md",
+                "file": "Proposal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logbook"
+              "title": "Proposal"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook.md",
+                "file": "Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logbook"
+              "title": "Backlinks for Proposal"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook.md",
+                "file": "Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Logbook"
+              "title": "Outgoing links from Proposal"
             }
           },
           {
@@ -180,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook.md"
+                "file": "Proposal.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Logbook"
+              "title": "Outline of Proposal"
             }
           },
           {
@@ -220,11 +220,12 @@
   },
   "active": "e3afaaae49f373e9",
   "lastOpenFiles": [
-    "Week 4/Week 4 (Lecture) Research Methods.md",
-    "Logbook.md",
+    "Pasted image 20241021102406.png",
     "Proposal.md",
-    "Proposal Template.md",
     "Pasted image 20241011142746.png",
+    "Logbook.md",
+    "Week 4/Week 4 (Lecture) Research Methods.md",
+    "Proposal Template.md",
     "Week 3/Week 3 (Lecture) Development methods.md",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Final Year Project Mark Scheme.sheet.md",
