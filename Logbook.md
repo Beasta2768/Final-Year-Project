@@ -103,3 +103,13 @@
 ### Project Development (16-17/10/24)
 
 ### Advanced web development
+
+
+## Week 5 (21/10/24)
+### Lecture & Seminar
+- Seminar
+	- Stick to Gannt chart for project coding
+	- 
+### Project Development (16-17/10/24)
+
+### Advanced web development
