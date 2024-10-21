@@ -109,7 +109,9 @@
 ### Lecture & Seminar
 - Seminar
 	- Stick to Gannt chart for project coding
-	- 
+	- progress review
+	- use liabry to get access to research papers
+
 ### Project Development (16-17/10/24)
 
 ### Advanced web development

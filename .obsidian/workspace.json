@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal.md",
+                "file": "Logbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proposal"
+              "title": "Logbook"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposal.md",
+                "file": "Logbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Proposal"
+              "title": "Backlinks for Logbook"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposal.md",
+                "file": "Logbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Proposal"
+              "title": "Outgoing links from Logbook"
             }
           },
           {
@@ -180,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal.md"
+                "file": "Logbook.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Proposal"
+              "title": "Outline of Logbook"
             }
           },
           {
@@ -220,9 +220,9 @@
   },
   "active": "e3afaaae49f373e9",
   "lastOpenFiles": [
+    "Proposal.md",
     "Images/Gannt Chart.png",
     "Images/Week 4/Pasted image 20241011142746.png",
-    "Proposal.md",
     "Pasted image 20241021102406.png",
     "Logbook.md",
     "Week 4/Week 4 (Lecture) Research Methods.md",
