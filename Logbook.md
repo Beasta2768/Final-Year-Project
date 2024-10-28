@@ -115,3 +115,11 @@
 ### Project Development (16-17/10/24)
 
 ### Advanced web development
+
+## Week 6 (21/10/24)
+### Lecture & Seminar
+- Seminar
+	- avoid already existing ideas
+### Project Development (16-17/10/24)
+
+### Advanced web development
