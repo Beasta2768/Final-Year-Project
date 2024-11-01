@@ -39,14 +39,12 @@
             "id": "63f74837cee7cb80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Week 6/Pasted image 20241101104443.png"
               },
-              "icon": "lucide-file",
-              "title": "Week 2 (Lecture) Project Proposal - Writing"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241101104443"
             }
           },
           {
@@ -62,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "c17150d6c39a3daf",
@@ -219,30 +216,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3afaaae49f373e9",
+  "active": "f0139c45a6becfe1",
   "lastOpenFiles": [
-    "Pasted image 20241101104443.png",
+    "Images/Week 5/Pasted image 20241101102534.png",
     "Week 5/Week 5 (Lecture) Requirements Engineering.md",
+    "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Week 6/Week 6 (Lecture) Research Methodology.md",
-    "Pasted image 20241101102534.png",
-    "Pasted image 20241101102345.png",
-    "Pasted image 20241101102257.png",
-    "Pasted image 20241101102229.png",
-    "Pasted image 20241101102223.png",
-    "Pasted image 20241101102212.png",
-    "Pasted image 20241101102112.png",
+    "Images/Week 6",
+    "Images/Week 5",
+    "Images/Week 6/Pasted image 20241101104652.png",
+    "Images/Week 6/Pasted image 20241101104637.png",
+    "Images/Week 6/Pasted image 20241101104600.png",
+    "Images/Week 6/Pasted image 20241101104443.png",
+    "Images/Week 5/Pasted image 20241101102345.png",
+    "Images/Week 5/Pasted image 20241101102257.png",
+    "Images/Week 5/Pasted image 20241101102229.png",
+    "Images/Week 5/Pasted image 20241101102223.png",
+    "Images/Week 5/Pasted image 20241101102212.png",
     "Logbook.md",
     "Proposal.md",
     "Week 7",
     "Week 6",
     "Week 5",
-    "Images/Gannt Chart.png",
-    "Images/Week 4/Pasted image 20241011142746.png",
-    "Pasted image 20241021102406.png",
     "Week 4/Week 4 (Lecture) Research Methods.md",
     "Proposal Template.md",
     "Week 3/Week 3 (Lecture) Development methods.md",
-    "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Final Year Project Mark Scheme.sheet.md",
     "Week 1/Week 1 (Lecture) Final Year Projects.md",
     "Untitled.md",
@@ -253,8 +251,6 @@
     "New folder",
     "Week 3",
     "Templates/New Week Lecture.md",
-    "Week 2",
-    "Week 1",
     "Excel 2024-09-16 09.43.23.sheet.md",
     "Welcome.md"
   ]
