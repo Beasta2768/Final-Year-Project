@@ -153,162 +153,61 @@
 	– How would you improve it
 
 
+## Methodology: Key things to note
 • Follow your methodology
 	– But let the research lead you – if it needs to change revise it
 • And discuss this later
 • The research methodology is not the same as the development methodology
 	– Julian discussed that
 • Whether the ‘product’ succeeds or fails is equally valid
-– Provided you have developed a ‘good’ methodology and have followed it
-Methodology: Key things to
-note
-EXAMPLE: METHODOLOGY
-What does ‘good’ look like
-• Sought to combine multiple video streams, in
-realtime, to create low latency, high quality
-representations of people in virtual reality
-applications.
-– Mostly theory based research
-• How to create real-time 3D forms without tessellation
-– Simulation was chosen to test and evaluate principles
-• Quantitative studies of performance (speed) and quality.
-Visual, Spatial and Temporal Quality in Video-
-Based Reconstruction of People: Achieving,
-Prototyping and Evaluating
-• Aim: To improve on the temporal and visual quality of 3D video based
-reconstruction through new approaches to developing, doing and
-measuring it.
-– Led to core research questions
-• Theory: new concepts and models (developing)
-• Technical: experiments to test principles
-• Simulation: how to measure results
+	– Provided you have developed a ‘good’ methodology and have followed it
+
+
+## EXAMPLE: METHODOLOGY
+
+## Visual, Spatial and Temporal Quality in Video- Based Reconstruction of People: Achieving, Prototyping and Evaluating
+• Sought to combine multiple video streams, in realtime, to create low latency, high quality representations of people in virtual reality applications.
+	– Mostly theory based research
+		• How to create real-time 3D forms without tessellation
+	– Simulation was chosen to test and evaluate principles
+		• Quantitative studies of performance (speed) and quality.
+
+
+## Aim and Objectives
+• Aim: To improve on the temporal and visual quality of 3D video based reconstruction through new approaches to developing, doing and measuring it.
+	– Led to core research questions
+		• Theory: new concepts and models (developing)
+		• Technical: experiments to test principles
+		• Simulation: how to measure results
 • Objectives
-– O1: Develop novel approaches to holistically measure the balance of visual,
-spatial and temporal qualities of video based reconstruction while balancing key
-impacting factors
-– O2: Develop a novel reconstruction/rendering technique that improves upon the
-balance of visual, spatial and temporal qualities in video based reconstruction.
-– O3: Assess the novel technique for improving the balance of qualities by
-applying novel approaches to measure holistic performance.
-Aim and Objectives
+	– O1: Develop novel approaches to holistically measure the balance of visual, spatial and temporal qualities of video based reconstruction while balancing key impacting factors
+	– O2: Develop a novel reconstruction/rendering technique that improves upon the balance of visual, spatial and temporal qualities in video based reconstruction.
+	– O3: Assess the novel technique for improving the balance of qualities by applying novel approaches to measure holistic performance.
+
+## Research Questions and Hypotheses
 • Research Questions
-– Q1: Can a technological environment be formalised and established that enables
-experimentation and rapid prototyping through reliable, repeatable objective analysis.
-– Q2: What algorithmic structure should a reconstruction/rendering process take to align with
-features of programmable graphics pipelines to utilise the available processing resource
-effectively
-– Q3: What quantifiable measurements should be made to establish confidence in matching
-evolving techniques for reconstruction to current state of the art
+	– Q1: Can a technological environment be formalised and established that enables experimentation and rapid prototyping through reliable, repeatable objective analysis.
+	– Q2: What algorithmic structure should a reconstruction/rendering process take to align with features of programmable graphics pipelines to utilise the available processing resource effectively
+	– Q3: What quantifiable measurements should be made to establish confidence in matching evolving techniques for reconstruction to current state of the art
 • Hypotheses
-– H1: Simulation of the capture and reconstruction pipeline enables understanding of the
-impact of data capture configuration on resultant reconstructed form
-– H2: An integrated reconstruction and rendering technique is possible within the features and
-functionality of the programmable graphics pipeline
-– H3: Simulation of the capture and reconstruction pipeline enables repeatable objective
-analysis for the development of technique
-Research Questions and
-Hypotheses
-Research Strategy
-Naive Approach
-Informed Approach
-Refined Approach
-I know best and can do it without looking at what
-anyone else has done
-• Failed miserably
-• But, told me what the real problems were and what
-questions I really needed to answer
-Apply knowledge and understanding from previous
-attempt with research into the problems identified
-• Gave a working system (quality) but very slow
-performance
-Through development of theory, and testing by
-simulation address the specific issues affecting both
-quality and performance
+	– H1: Simulation of the capture and reconstruction pipeline enables understanding of the impact of data capture configuration on resultant reconstructed form
+	– H2: An integrated reconstruction and rendering technique is possible within the features and functionality of the programmable graphics pipeline
+	– H3: Simulation of the capture and reconstruction pipeline enables repeatable objective analysis for the development of technique
+
+## Research Stratagy
+![[Pasted image 20241101104443.png]]
+- I know best and can do it without looking at what anyone else has done
+	• Failed miserably
+	• But, told me what the real problems were and what questions I really needed to answer
+- Apply knowledge and understanding from previous attempt with research into the problems identified
+	• Gave a working system (quality) but very slow performance
+- Through development of theory, and testing by simulation address the specific issues affecting both quality and performance
+  
 • Defined experiments
 • Implied a simulation driven, iterative approach
-– Development methodology
-Research Stratagy
-The Methodology
-O1: Doing
-Develop novel approach to holistically measure
-the balance of visual, spatial and temporal
-quality
-Aim
-Improved Temporal
-and visual quality in
-video based
-reconstruction
-Q2
-Algorithmic structure
-of
-reconstruction/renderi
-ng process
-Q1
-Technology
-platform for
-experimentation
-and rapid
-prototyping
-Q3
-Quantifiable
-objective
-measurement
-The Methodology
-O1: Doing
-Develop novel approach to holistically measure
-the balance of visual, spatial and temporal
-quality
-Aim
-Improved Temporal
-and visual quality in
-video based
-reconstruction
-Q2
-Algorithmic structure
-of
-reconstruction/renderi
-ng process
-Q1
-Technology
-patform for
-experimentation
-and rapid
-prototyping
-Q3
-Quantifiable
-objective
-measurement
-H1H2
-H3
-H4 H5
-The Methodology
-O1: Doing
-Develop novel approach to holistically measure
-the balance of visual, spatial and temporal
-quality
-Aim
-Improved Temporal
-and visual quality in
-video based
-reconstruction
-Q2
-Algorithmic structure
-of
-reconstruction/renderi
-ng process
-Q1
-Technology
-patform for
-experimentation
-and rapid
-prototyping
-Q3
-Quantifiable
-objective
-measurement
-H1H2
-H3
-H4 H5
+	– Development methodology
+	
+
 • This is research – Methodology is important
 – Strategic approach to how you will undertake the project
 – Grounded in the Problem Domain
