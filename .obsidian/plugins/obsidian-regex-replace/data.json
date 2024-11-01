@@ -1,5 +1,5 @@
 {
-  "findText": "^\\s",
+  "findText": "^01/11/2024 Lee Griffiths \\d+",
   "replaceText": "",
   "useRegEx": true,
   "selOnly": false,
