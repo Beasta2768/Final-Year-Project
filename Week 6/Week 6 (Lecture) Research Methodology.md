@@ -65,103 +65,99 @@
 ## Methods
 • Experimental
 	– Definition of approaches to extract results from real world implementations
-• EG: Development of new social network
-	– Technical issues assessed by benchmarks (availability, reliability, scalability, stability, performance, ….)
-	– Social (Societal) issues such as usability and evaluation against problem domain assessed with users
-		» Questionnaires, focus groups, ….
+		• EG: Development of new social network
+			– Technical issues assessed by benchmarks (availability, reliability, scalability, stability, performance, ….)
+			– Social (Societal) issues such as usability and evaluation against problem domain assessed with users
+				» Questionnaires, focus groups, ….
 • Simulation
 	– Approaches that investigate systems and principles outside of experimental domain
-• EG: Development of new algorithms
-	– Predominantly technical evaluation
-		» Simulation environment for matching of contextual system
-		» Quantitative evaluation of algorithm within the simulation systems
+		• EG: Development of new algorithms
+			– Predominantly technical evaluation
+				» Simulation environment for matching of contextual system
+				» Quantitative evaluation of algorithm within the simulation systems
 
 • Theoretical
 	– Classical methodologies around the formulation of conceptual and formal models
-• EG: Development of new concepts for sorting data
-	– Logical and mathematical evaluation of theory (iteration, recursion, induction, …)
-	– May also require application of other methods (Experimentation, simulation,..) to prove efficiency of new ideas (e.g. performance)
+		• EG: Development of new concepts for sorting data
+			– Logical and mathematical evaluation of theory (iteration, recursion, induction, …)
+			– May also require application of other methods (Experimentation, simulation,..) to prove efficiency of new ideas (e.g. performance)
 • Social
-– Exploration of evidence to develop new understanding
-• EG: Extensive evaluation of published works to determine effectiveness of a
-development methodology or technique
-– Literature survey and critical evaluation
-– Empirical studies of groups of practitioners (questionnaires, focus groups, etc).
-– Case studies
-Methods
-A framework for computing
-research methods
-What do we want to achieve?
-• Find out what is happening
-• Develop something that works
-• Evaluate an existing system, technology or
-technique
-• Compare existing systems
-• Change Human Behaviour
-Have we achieved our goals?
-• Draw Conclusions
-• Evaluate Results
-• Identify Limitations
-Where does the data come from?
-• How to collect?
-• Read, Observe, Ask, Measure, Experiment,
-Model
-• Where to Collect?
-• Field, Lab, Conceptual
-• What to collect?
-• Quantitative
-• Speed, scalability, performance
-• Qualitative
-• Experience, acceptance, use, literature
-What do we do with the Data?
-• Identify themes, patterns, quotes…
-• Calculate Numbers
-• Identify Trends
-• Express (via multimedia)
-• Create frameworks/taxonomies
+	– Exploration of evidence to develop new understanding
+	• EG: Extensive evaluation of published works to determine effectiveness of a development methodology or technique
+		– Literature survey and critical evaluation
+		– Empirical studies of groups of practitioners (questionnaires, focus groups, etc).
+		– Case studies
+
+## A framework for computing research methods
+- What do we want to achieve?
+	• Find out what is happening
+	• Develop something that works
+	• Evaluate an existing system, technology or technique
+	• Compare existing systems
+	• Change Human Behaviour
+			⬇️
+- Where does the data come from?
+	• How to collect?
+		• Read, Observe, Ask, Measure, Experiment, Model
+	• Where to Collect?
+		• Field, Lab, Conceptual
+	• What to collect?
+		• Quantitative
+			• Speed, scalability, performance
+		• Qualitative
+			• Experience, acceptance, use, literature
+			⬇️
+- Have we achieved our goals?
+	• Draw Conclusions
+	• Evaluate Results
+	• Identify Limitations
+			⬇️
+- What do we do with the Data?
+	• Identify themes, patterns, quotes…
+	• Calculate Numbers
+	• Identify Trends
+	• Express (via multimedia)
+	• Create frameworks/taxonomies
+	
+## Development of methodology
 • Developing a framework for research identifies
-– Aim
-• One only
-• Grounded in the problem domain
-• Focused on the (human) issue the work is seeking to address
-– Objectives
-• Progressive, measurable decomposition of the activities that
-address the aim
-– Research Questions
-• What are the key aspects of the work that need to be resolved
-– Hypotheses
-• Specific aspects of the work that need to be tested
-• Appropriate methods are chosen to validate these
-Development of methodology
+	– Aim
+		• One only
+		• Grounded in the problem domain
+		• Focused on the (human) issue the work is seeking to address
+	– Objectives
+		• Progressive, measurable decomposition of the activities that address the aim
+	– Research Questions
+		• What are the key aspects of the work that need to be resolved
+	– Hypotheses
+		• Specific aspects of the work that need to be tested
+		• Appropriate methods are chosen to validate these
+
+## Therefore: Methodology
 • Explanation of:
-– How Objectives, Research Questions and
-Hypotheses have been developed
-• And exploration of how these will address the problem
-defined by the aim
-– Validation of the methods chosen against the specific
-O, RQ & H
-– Explanation of how this methodology will Robustly,
-Reliably and Repeatedly enact the research to meet
-the aim.
-– Definition of the boundaries of the research
-Therefore: Methodology
+	– How Objectives, Research Questions and Hypotheses have been developed
+		• And exploration of how these will address the problem defined by the aim
+	– Validation of the methods chosen against the specific O, RQ & H
+	– Explanation of how this methodology will Robustly, Reliably and Repeatedly enact the research to meet the aim.
+	– Definition of the boundaries of the research
+
+## Methodology: Where does it fit
 • This is the guiding strategy for your research
-– Define it before you start
+	– Define it before you start
 • Introduction: Following Aim and Objectives define the Methodology
-– RQ, H and Methods
+	– RQ, H and Methods
 • Discussion: Critically evaluate your Methodology
-– Did it work?
-– Problems and issues
+	– Did it work?
+	– Problems and issues
 • Have you had to change it (and why)
-– How would you improve it
-Methodology: Where does it
-fit
+	– How would you improve it
+
+
 • Follow your methodology
-– But let the research lead you – if it needs to change revise it
+	– But let the research lead you – if it needs to change revise it
 • And discuss this later
-• The research methodology is not the same as the development
-methodology
-– Julian discussed that
+• The research methodology is not the same as the development methodology
+	– Julian discussed that
 • Whether the ‘product’ succeeds or fails is equally valid
 – Provided you have developed a ‘good’ methodology and have followed it
 Methodology: Key things to
