@@ -94,7 +94,7 @@
  - With the modern versions no logger using comments but rather being part of the attributes of a routing function
 
 
-## Week 4 (14/10/24)
+## Week 4 (14/10/24) !!!
 ### Lecture & Seminar
 -  During the first part of  the seminar we discussed the risk assessment due on Friday and how we should approach it
 - For the rest of the seminar we discussed the literature review and how to approach the project
@@ -105,18 +105,18 @@
 ### Advanced web development
 
 
-## Week 5 (21/10/24)
+## Week 5 (21/10/24) !!!
 ### Lecture & Seminar
 - Seminar
 	- Stick to Gannt chart for project coding
 	- progress review
-	- use liabry to get access to research papers
+	- use library to get access to research papers
 
-### Project Development (16-17/10/24)
+### Project Development (16-17/10/24) 
 
 ### Advanced web development
 
-## Week 6 (21/10/24)
+## Week 6 (21/10/24) !!!
 ### Lecture & Seminar
 - Seminar
 	- avoid already existing ideas without iterating on them
