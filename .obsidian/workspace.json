@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 6/Week 6 (Lecture) Research Methodology.md",
+                "file": "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 6 (Lecture) Research Methodology"
+              "title": "Week 7 (Lecture) Writing Your Introduction & Literature Review"
             }
           },
           {
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "c17150d6c39a3daf",
@@ -206,11 +207,12 @@
   },
   "active": "e3afaaae49f373e9",
   "lastOpenFiles": [
+    "Week 6/Week 6 (Lecture) Research Methodology.md",
+    "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
     "Images/Week 6/Pasted image 20241101104443.png",
     "Images/Week 5/Pasted image 20241101102534.png",
     "Week 5/Week 5 (Lecture) Requirements Engineering.md",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
-    "Week 6/Week 6 (Lecture) Research Methodology.md",
     "Images/Week 6",
     "Images/Week 5",
     "Images/Week 6/Pasted image 20241101104652.png",
