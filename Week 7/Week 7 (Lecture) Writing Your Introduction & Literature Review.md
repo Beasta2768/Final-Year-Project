@@ -69,33 +69,22 @@ could make you a better writer. Retrieved 17 January 2017, from The Conversation
 paragraph
 • Use following sentences to expand on main idea
 • A summary sentence at the end of the paragraphs helps transition to the next
+- OWL (n.d.). On Paragraphs // Purdue Writing Lab. Retrieved 30 October 2019, from Purdue Writing Lab website: https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_ paragraphing/index.html
+
 
 • Example
 	– Paragraphs are the unit of composition in technical writing. A paragraph should address only one topic. The paragraph should be around 4-6 sentences long. Paragraphs can be moved around within a longer text to create a logical flow. Paragraphs are a very useful tool in technical writing
 • Topic sentence at start
 • Explanatory sentences in the middle
 • Summary sentence at end
-- OWL (n.d.). On Paragraphs // Purdue Writing Lab. Retrieved 30 October 2019, from Purdue Writing Lab website: https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_ paragraphing/index.html
 
 • Bad example
-– Java is a good example of a modern programming
-language. Simula is a object oriented programming
-language. C++ is a strongly typed language. I have
-chosen Python for my project.
+	– Java is a good example of a modern programming language. Simula is a object oriented programming language. C++ is a strongly typed language. I have chosen Python for my project.
 • Better example
-– Java is a good example of a modern programming
-language. Java is an object-oriented programming
-language. Java is a strongly typed language. I have
-chosen Java for my project.
+	– Java is a good example of a modern programming language. Java is an object-oriented programming language. Java is a strongly typed language. I have chosen Java for my project.
 
-Paragraphs
-• Approaches to writing
-• Composition
-• Report Introduction
-• Literature Review
-• Methods
 
-Contents
+## Report Introduction
 • Provide a bit of context
 • Motivation for project
 • Summarise key findings and main messages
@@ -103,151 +92,65 @@ Contents
 • Refer to project guide
 • Refer to grading grid
 
-Report Introduction
 • Motivation
-– Why is the topic important?
+	– Why is the topic important?
 • What is the problem?
 • Supporting evidence (articles, statistics, Govt. reports)
-– Why is the topic important to you?
+	– Why is the topic important to you?
 • What inspired your interest in the project?
 • Do you have a personal connection to the project?
-– Are you particularly interested in the technologies
-involved?
-• W hy are these technologies important? Evidence?
+	– Are you particularly interested in the technologies involved?
+• Why are these technologies important? Evidence?
 
-Report Introduction
+### Motivation
 • Weak
-– I am interested in
-ransomware
-prevention. I think this
-is an important topic
-and there are job
-opportunities in this
-area.
-
-Report Introduction
-Motivation
+	– I am interested in ransomware prevention. I think this is an important topic and there are job opportunities in this area.
 • Better
-– Ransomware attacks
-have increased by
-x00% in 5 years
-[GCHQ, 2021].
-Ransomware attacks
-have resulted in over
-US $yB in losses, since
- [NSA, 2023].
+	– Ransomware attacks have increased by x00% in 5 years \[GCHQ, 2021]. Ransomware attacks have resulted in over US $yB in losses, since \[NSA, 2023].
 • Weak
-– I want to build a game
-because Unity 3D is
-easy to use and I got
-as good mark for
-assignment last
-semester.
+	– I want to build a game because Unity 3D is easy to use and I got as good mark for assignment last semester.
 
-Report Introduction
-Motivation
 • Better
-– I was close to my
-grandmother. Before she
-died, my grandmother was
-a dementia sufferer. As
-her condition worsened
-she had many challenges
-with daily tasks around the
-home. My project is
-designed to support
-dementia sufferers with
-living at home.
-• What are the most important elements of the
-project
-• Summarise the most important things you hope
-to achieve
+	– I was close to my grandmother. Before she died, my grandmother was a dementia sufferer. As her condition worsened she had many challenges with daily tasks around the home. My project i designed to support dementia sufferers with living at home.
+	
+## Report Introduction
+• What are the most important elements of the project
+• Summarise the most important things you hope to achieve
 • Provide an overview of the report
-– List the sections
-– Provide a brief (one or two sentence) summary of
-each section
+	– List the sections
+	– Provide a brief (one or two sentence) summary of each section
 
-Report Introduction
-• Approaches to writing
-• Composition
-• Introduction
-• Literature Review
-• Methods
 
-Contents
-• Think of flow like a
-funnel
-• Start with broad,
-general, topics
-• Move toward specific
-issues of your project
-• Broad topics
-• Specific project topic
-Literature Review
+## Literature Review
+• Think of flow like a funnel
+• Start with broad, general, topics
+• Move toward specific issues of your project
+![[Pasted image 20241102101613.png]]
 
 • Start with broad sources
-– Text books
-– Lecture materials
-– Overview articles, survey articles
+	– Text books
+	– Lecture materials
+	– Overview articles, survey articles
 • Move towards more specific sources
-– Research journal articles
+	– Research journal articles
 • Focus on topics closely related to project
-– Conference papers more focused on topics in your
-project
-– More specific, more technical sources
+	– Conference papers more focused on topics in your project
+	– More specific, more technical sources
 
-Literature Review
 • In research
-– Literature review is used to show a gap in knowledge
-– Identify a gap your project is going to fill
-– Show work that others have done, around your
-project
+	– Literature review is used to show a gap in knowledge
+	– Identify a gap your project is going to fill
+	– Show work that others have done, around your project
 
-Literature Review
-• Approaches to writing
-• Composition
-• Introduction
-• Literature Review
-• Methods
-
-Contents
-Methods
-
-Methodology
-Methods
-Data Collection
-Data Analysis
+## Methods
+![[Pasted image 20241102101626.png]]
+### Methodology
 • Choose methods to suite type of project
-Methodology
-Create
-Something
-Evaluate
-Creation
-Design Evaluate
-Implementation
-Reflect
-ReflectImplement
-Formulate
-Problem Reflect
-Collect
-Data
-Analyse
-Data
-Build
-Experiments
-Formulate
-Problem Reflect
-Collect
-Data
-Build &
-Test
-Model
-Recruit
-Subjects
+![[Pasted image 20241102101643.png]]
 
+Method
 • Iterative and incremental
 • Overall project timeline (adapt to your situation)
-Method
 Christmas
 Break
 Date???
