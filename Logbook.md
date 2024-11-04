@@ -137,9 +137,7 @@
 ## Week 6 (04/11/24) !!!
 ### Lecture & Seminar
 - Seminar
-	- avoid already existing ideas without iterating on them
-	- look at similar products for lit review
-	- 
+	- covered ethical review and interview sheets
 ### Project Development (6-7/10/24)
 
 ### Advanced web development
