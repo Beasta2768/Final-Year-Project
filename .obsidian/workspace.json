@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal.md",
+                "file": "Week 8/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proposal"
+              "title": "Untitled"
             }
           },
           {
@@ -189,8 +189,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0139c45a6becfe1",
+  "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
+    "Proposal.md",
+    "Week 8/Untitled.md",
+    "Week 8",
     "Images/Week 7/Pasted image 20241102101643.png",
     "Images/Week 7/Pasted image 20241102101613.png",
     "Images/Week 7",
@@ -209,7 +212,6 @@
     "Images/Week 6/Pasted image 20241101104600.png",
     "Images/Week 5/Pasted image 20241101102345.png",
     "Logbook.md",
-    "Proposal.md",
     "Week 7",
     "Week 6",
     "Week 5",
@@ -223,7 +225,6 @@
     "Images/Week 4",
     "Images",
     "Week 4",
-    "New folder",
     "Templates/New Week Lecture.md",
     "Excel 2024-09-16 09.43.23.sheet.md",
     "Welcome.md"
