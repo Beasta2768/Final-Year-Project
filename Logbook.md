@@ -138,6 +138,8 @@
 ### Lecture & Seminar
 - Seminar
 	- covered ethical review and interview sheets
+	- for my project work more on my lit review b4  moving onto more interface design
+		- find better alternative to compare to
 ### Project Development (6-7/10/24)
 
 ### Advanced web development
