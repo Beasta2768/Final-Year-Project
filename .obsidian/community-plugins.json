@@ -4,5 +4,6 @@
   "obsidian-git",
   "obsidian-regex-replace",
   "templater-obsidian",
-  "excel"
+  "excel",
+  "dataview"
 ]
