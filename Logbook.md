@@ -134,7 +134,7 @@
 
 ### Advanced web development
 
-## Week 6 (04/11/24) !!!
+## Week 8 (04/11/24) !!!
 ### Lecture & Seminar
 - Seminar
 	- covered ethical review and interview sheets
