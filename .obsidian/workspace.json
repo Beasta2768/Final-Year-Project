@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Week 7/Pasted image 20241102101613.png"
+                "file": "Logbook.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20241102101613"
+              "title": "Outline of Logbook"
             }
           },
           {
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5,
-    "collapsed": true
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
