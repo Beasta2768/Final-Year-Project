@@ -141,6 +141,8 @@
 ### Lecture & Seminar
 - Introduce major sections
 	- brief conclusion at the end
+- dont talk about your own systems structure in the lit review
+	- 
 ### Project Development (6-7/10/24)
 
 ### Advanced web development

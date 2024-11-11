@@ -47,8 +47,7 @@
               "title": "Final Year Project Mark Scheme.sheet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal.md"
+                "file": "Logbook.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Proposal"
+              "title": "Outline of Logbook"
             }
           },
           {
@@ -203,11 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bcc40b4907d255ba",
+  "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
+    "Proposal.md",
     "Logbook.md",
     "Dataset.md",
-    "Proposal.md",
     "Week 8/Untitled.md",
     "Week 8",
     "Images/Week 7/Pasted image 20241102101643.png",
