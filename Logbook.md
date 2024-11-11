@@ -139,10 +139,8 @@
 
 ## Week 9 (04/11/24) !!!
 ### Lecture & Seminar
-- Seminar
-	- covered ethical review and interview sheets
-	- for my project work more on my lit review b4  moving onto more interface design
-		- find better alternative to compare to
+- Introduce major sections
+	- brief conclusion at the end
 ### Project Development (6-7/10/24)
 
 ### Advanced web development
