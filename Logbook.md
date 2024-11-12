@@ -134,7 +134,7 @@
 	- for my project work more on my lit review b4  moving onto more interface design
 		- find better alternative to compare to
 ### Project Development (30-31/10/24)
-
+- look for existing systems
 ### Advanced web development
 
 ## Week 9 (04/11/24) !!!
