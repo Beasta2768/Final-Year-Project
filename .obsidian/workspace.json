@@ -34,16 +34,6 @@
               "icon": "lucide-file",
               "title": "Week 6 (Lecture) Research Methodology"
             }
-          },
-          {
-            "id": "36273a969f9d491f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
         "currentTab": 1
@@ -204,9 +194,10 @@
   },
   "active": "57eabd2ce66cfa35",
   "lastOpenFiles": [
+    "Lit rev.md",
+    "Week 6/Week 6 (Lecture) Research Methodology.md",
     "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
     "Final Year Project Mark Scheme.sheet.md",
-    "Lit rev.md",
     "Proposal.md",
     "Logbook.md",
     "Dataset.md",
@@ -217,7 +208,6 @@
     "Images/Week 7",
     "Images/Week 7/Pasted image 20241102101716.png",
     "Images/Week 7/Pasted image 20241102101626.png",
-    "Week 6/Week 6 (Lecture) Research Methodology.md",
     "Images/Week 6/Pasted image 20241101104443.png",
     "Images/Week 5/Pasted image 20241101102534.png",
     "Week 5/Week 5 (Lecture) Requirements Engineering.md",
