@@ -25,12 +25,14 @@
             "id": "57eabd2ce66cfa35",
             "type": "leaf",
             "state": {
-              "type": "excel-view",
+              "type": "markdown",
               "state": {
-                "file": "Final Year Project Mark Scheme.sheet.md"
+                "file": "Week 6/Week 6 (Lecture) Research Methodology.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Year Project Mark Scheme.sheet"
+              "title": "Week 6 (Lecture) Research Methodology"
             }
           },
           {
@@ -162,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final Year Project Mark Scheme.sheet.md"
+                "file": "Week 6/Week 6 (Lecture) Research Methodology.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Final Year Project Mark Scheme.sheet"
+              "title": "Outline of Week 6 (Lecture) Research Methodology"
             }
           },
           {
@@ -202,8 +204,9 @@
   },
   "active": "57eabd2ce66cfa35",
   "lastOpenFiles": [
-    "Lit rev.md",
+    "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
     "Final Year Project Mark Scheme.sheet.md",
+    "Lit rev.md",
     "Proposal.md",
     "Logbook.md",
     "Dataset.md",
@@ -212,7 +215,6 @@
     "Images/Week 7/Pasted image 20241102101643.png",
     "Images/Week 7/Pasted image 20241102101613.png",
     "Images/Week 7",
-    "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
     "Images/Week 7/Pasted image 20241102101716.png",
     "Images/Week 7/Pasted image 20241102101626.png",
     "Week 6/Week 6 (Lecture) Research Methodology.md",
