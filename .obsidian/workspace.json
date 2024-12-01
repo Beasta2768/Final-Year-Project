@@ -35,8 +35,7 @@
               "title": "Proposal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,13 +191,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57eabd2ce66cfa35",
+  "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
+    "Proposal.md",
     "Week 6/Week 6 (Lecture) Research Methodology.md",
     "Lit rev.md",
     "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
     "Final Year Project Mark Scheme.sheet.md",
-    "Proposal.md",
     "Logbook.md",
     "Dataset.md",
     "Week 8/Untitled.md",
