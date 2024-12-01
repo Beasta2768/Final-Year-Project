@@ -28,7 +28,12 @@
 	- Customized energy terms optimization methods
 	- Methods focusing on seamless blending and spatial efficiency
 
-
+3. Specific implementations include
+	- AutoCollage: Creates collages of representative elements using optimization steps
+	- Circle Packing Collage: Partitions canvas based on regions of interest
+	- Picture Collage: Uses handcrafted energy terms and Markov chain Monte Carlo optimization
+	- <span style="background:#fff88f">Shape Collage: Creates harmonious blended collages using flexible templates</span>
+	- <span style="background:#fff88f">Shape Collage: Creates harmonious blended collages using flexible templates</span>
 
 ## Methodology
 - Introduction: 
