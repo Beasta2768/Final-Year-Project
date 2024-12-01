@@ -22,6 +22,7 @@
 	- Back-end Programming Language:
 - Development Techniques:
 - Design Pattern:
-- MVC pattern:
 - Development Environment:
+
+
 
