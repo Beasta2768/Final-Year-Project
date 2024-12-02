@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logbook.md",
+                "file": "Week 4/Week 4 (Lecture) Research Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logbook"
+              "title": "Week 4 (Lecture) Research Methods"
             }
           }
         ],
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "research me",
+                "query": "research methodology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,15 +205,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5436956bebd57d57",
+  "active": "f84112ab97abbcf0",
   "lastOpenFiles": [
+    "Logbook.md",
     "Week 6/Week 6 (Lecture) Research Methodology.md",
     "Final Year Project Mark Scheme.sheet.md",
     "Lit rev.md",
     "Proposal.md",
     "Dataset.md",
     "Week 8/Untitled.md",
-    "Logbook.md",
     "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
     "Week 8",
     "Images/Week 7/Pasted image 20241102101643.png",
