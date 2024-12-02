@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "research me",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,7 +205,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f84112ab97abbcf0",
+  "active": "5436956bebd57d57",
   "lastOpenFiles": [
     "Week 6/Week 6 (Lecture) Research Methodology.md",
     "Final Year Project Mark Scheme.sheet.md",
