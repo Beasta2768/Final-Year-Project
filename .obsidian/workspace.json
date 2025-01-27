@@ -11,12 +11,12 @@
             "id": "7b3fea3ad66e9190",
             "type": "leaf",
             "state": {
-              "type": "excel-view",
+              "type": "image",
               "state": {
-                "file": "Final Year Project Mark Scheme.sheet.md"
+                "file": "Images/Gannt Chart.png"
               },
-              "icon": "lucide-file",
-              "title": "Final Year Project Mark Scheme.sheet"
+              "icon": "lucide-image",
+              "title": "Gannt Chart"
             }
           },
           {
@@ -203,17 +203,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0139c45a6becfe1",
+  "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
-    "Week 4/Week 4 (Lecture) Research Methods.md",
-    "Logbook.md",
-    "Week 6/Week 6 (Lecture) Research Methodology.md",
-    "Final Year Project Mark Scheme.sheet.md",
-    "Lit rev.md",
-    "Proposal.md",
-    "Dataset.md",
-    "Week 8/Untitled.md",
     "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
+    "Dataset.md",
+    "Proposal.md",
+    "Logbook.md",
+    "Final Year Project Mark Scheme.sheet.md",
+    "Week 4/Week 4 (Lecture) Research Methods.md",
+    "Week 6/Week 6 (Lecture) Research Methodology.md",
+    "Lit rev.md",
+    "Week 8/Untitled.md",
     "Week 8",
     "Images/Week 7/Pasted image 20241102101643.png",
     "Images/Week 7/Pasted image 20241102101613.png",
