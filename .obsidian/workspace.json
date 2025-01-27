@@ -99,8 +99,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b3fea3ad66e9190",
+  "active": "f0139c45a6becfe1",
   "lastOpenFiles": [
     "Week 4/Week 4 (Lecture) Research Methods.md",
     "Logbook.md",
