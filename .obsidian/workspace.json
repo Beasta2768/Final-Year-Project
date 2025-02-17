@@ -11,12 +11,14 @@
             "id": "7b3fea3ad66e9190",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Gannt Chart.png"
+                "file": "Logbook.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Gannt Chart"
+              "icon": "lucide-file",
+              "title": "Logbook"
             }
           },
           {
@@ -66,7 +68,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -205,6 +208,7 @@
   },
   "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
+    "Images/Gannt Chart.png",
     "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
     "Dataset.md",
     "Proposal.md",
