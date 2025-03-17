@@ -152,3 +152,15 @@
 - login and image upload
 ## Week 23
 -  service worker
+
+
+## Week 24
+-  tags system
+
+
+## Week 25
+-  integrated tags with ai detection
+
+
+## Week 26
+- Albums
