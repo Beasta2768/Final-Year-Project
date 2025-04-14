@@ -34,22 +34,9 @@
               "icon": "lucide-file",
               "title": "Lit rev"
             }
-          },
-          {
-            "id": "f84112ab97abbcf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 4/Week 4 (Lecture) Research Methods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 4 (Lecture) Research Methods"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +193,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b3fea3ad66e9190",
+  "active": "57eabd2ce66cfa35",
   "lastOpenFiles": [
+    "Logbook.md",
     "Images/Gannt Chart.png",
     "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
     "Dataset.md",
     "Proposal.md",
-    "Logbook.md",
     "Final Year Project Mark Scheme.sheet.md",
     "Week 4/Week 4 (Lecture) Research Methods.md",
     "Week 6/Week 6 (Lecture) Research Methodology.md",
@@ -233,7 +220,6 @@
     "Images/Week 6/Pasted image 20241101104652.png",
     "Images/Week 6/Pasted image 20241101104637.png",
     "Images/Week 6/Pasted image 20241101104600.png",
-    "Images/Week 5/Pasted image 20241101102345.png",
     "Week 7",
     "Week 6",
     "Week 5",
