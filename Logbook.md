@@ -1,4 +1,4 @@
-fv[[Final Year Project Mark Scheme.sheet|Mark Scheme]]
+[[Final Year Project Mark Scheme.sheet|Mark Scheme]]
 - Project Idea  - Photo Storage web app with react, that uses image recognition to tag and organise images and create collages based on those tags.
 ## Week 1 (16/09/24)
 ### Lecture & Seminar
