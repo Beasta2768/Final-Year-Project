@@ -94,6 +94,7 @@
  - With the modern versions no logger using comments but rather being part of the attributes of a routing function
 
 
+
 ## Week 5 (14/10/24) !!!
 ### Lecture & Seminar
 -  During the first part of  the seminar we discussed the risk assessment due on Friday and how we should approach it
