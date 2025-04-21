@@ -147,7 +147,36 @@
 
 ### Advanced web development
 
+## Week 10 (11/11/24) !!!
+### Lecture & Seminar
+- Introduce major sections
+	- brief conclusion at the end
+- don't talk about your own systems structure in the lit review
+	- 
+### Project Development (6-7/10/24)
 
+### Advanced web development
+
+## Week 11 (18/11/24) !!!
+### Lecture & Seminar
+- Introduce major sections
+	- brief conclusion at the end
+- don't talk about your own systems structure in the lit review
+	- 
+### Project Development (6-7/10/24)
+
+### Advanced web development
+
+
+## Week 18
+
+
+## Week 19
+
+
+## Week 20
+
+## Week 21
 ## Week 22
 - login and image upload
 ## Week 23
