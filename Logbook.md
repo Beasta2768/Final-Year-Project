@@ -182,6 +182,8 @@
 - login and image upload
 ## Week 23
 -  service worker
+- https://blog.logrocket.com/implementing-service-workers-next-js/
+- https://nextjs.org/docs/app/building-your-application/configuring/progressive-web-apps
 
 ## Week 24
 -  tags system
