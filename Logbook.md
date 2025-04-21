@@ -102,7 +102,7 @@
 	- We discussed how we should do some proof of concepts for some of the tech-stacks we are using
 		- Same thing for hosting, if we are using hosting methods other than Poseidon we should talk with our supervisor to get approval for it.
 ### Project Development (16-17/10/24)
-
+- This week I started working on 
 ### Advanced web development
 
 
@@ -110,7 +110,6 @@
 ### Lecture & Seminar
 - Seminar
 	- Stick to Gannt chart for project coding
-	- progress review
 	- use library to get access to research papers
 
 ### Project Development (16-17/10/24) 
