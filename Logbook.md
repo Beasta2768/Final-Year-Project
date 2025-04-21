@@ -121,7 +121,7 @@
 - Seminar
 	- avoid already existing ideas without iterating on them
 	- look at similar products for lit review
-	- 
+
 ### Project Development (16-17/10/24)
 
 ### Advanced web development
