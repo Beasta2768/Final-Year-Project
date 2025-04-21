@@ -196,6 +196,7 @@
 
 
 ## Week 27
-
+- finishing touches 
 
 ## Week 28
+- user testing
