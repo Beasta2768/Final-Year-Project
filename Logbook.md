@@ -102,7 +102,8 @@
 	- We discussed how we should do some proof of concepts for some of the tech-stacks we are using
 		- Same thing for hosting, if we are using hosting methods other than Poseidon we should talk with our supervisor to get approval for it.
 ### Project Development (16-17/10/24)
-- This week I started working on 
+- This week I started learning tailwind using https://tailwindcss.com/plus/ui-blocks/documentation
+	- I use tailwind in a te
 ### Advanced web development
 
 
