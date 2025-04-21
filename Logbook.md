@@ -84,7 +84,7 @@
 - It should start with identifying key concepts of the project and use as wide of a range of sources as possible
   - Each source should have a list of identifying information like title, authors, keywords/topic and a brief summary of the source. To help write the review
   - Sources should also be appropriately referenced using APA 7 the university's referencing standard
-### Project Development (16-17/10/24)
+### Project Development (09-10/10/24)
 - This weeks project development mainly focused of finishing an polishing my project proposal by setting my objectives and writing my development requirements
  - I also made a Gantt chart using my objectives to put at the end of my proposal
 ### Advanced web development
@@ -95,7 +95,7 @@
 
 
 
-## Week 5 (14/10/24) !!!
+## Week 5 (14/10/24) 
 ### Lecture & Seminar
 -  During the first part of  the seminar we discussed the risk assessment due on Friday and how we should approach it
 - For the rest of the seminar we discussed the literature review and how to approach the project
@@ -106,20 +106,8 @@
 	- I use tailwind in a temporary react project
 ### Advanced web development
 - This week we covered
-- Persistence - Keeping data/state beyond the life of the process, involving storing data in a database
-- Doctrine - An ORM (Object Relational Mapper) for PHP.
-	- Provides a **DBAL (Database Abstraction Layer)**.
-	- Uses DQL (Doctrine Query Language)**, a custom SQL-like syntax tailored for objects.
-    
-### **ORM Concepts**
-- **Entities** = PHP classes representing data.
-- **Tables** = Database equivalent of entities.    
-- **Entity Manager** = Handles saving/retrieving objects.
-
-#### 🔁 **Mapping**
-- Entities ↔ Tables
-- Fields ↔ Columns
-- Objects ↔ Rows
+	- Persistence - Keeping data/state beyond the life of the process, involving storing data in a database
+	- Doctrine - An ORM (Object Relational Mapper) for PHP, providing a database abstraction Layer.
 
 ## Week 6 (21/10/24) !!!
 ### Lecture & Seminar
@@ -127,7 +115,7 @@
 	- Stick to Gannt chart for project coding
 	- use library to get access to research papers
 
-### Project Development (16-17/10/24) 
+### Project Development (23-24/10/24) 
 
 ### Advanced web development
 
@@ -137,8 +125,8 @@
 	- avoid already existing ideas without iterating on them
 	- look at similar products for lit review
 
-### Project Development (16-17/10/24)
-
+### Project Development (30-31/10/24)
+- Worked on User Interface design ideas
 ### Advanced web development
 
 
@@ -164,20 +152,14 @@
 
 ## Week 10 (18/11/24) !!!
 ### Lecture & Seminar
-- Introduce major sections
-	- brief conclusion at the end
-- don't talk about your own systems structure in the lit review
-	- 
+
 ### Project Development (6-7/10/24)
 
 ### Advanced web development
 
 ## Week 11 (25/11/24) !!!
 ### Lecture & Seminar
-- Introduce major sections
-	- brief conclusion at the end
-- don't talk about your own systems structure in the lit review
-	- 
+
 ### Project Development (6-7/10/24)
 
 ### Advanced web development
