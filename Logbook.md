@@ -185,11 +185,11 @@
 
 ## Week 24
 -  tags system
-
+![[Pasted image 20250421221311.png]]
 
 ## Week 25
 -  integrated tags with ai detection
-
+![[Pasted image 20250421221209.png]]
 
 ## Week 26
 - Albums
