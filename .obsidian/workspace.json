@@ -25,17 +25,16 @@
             "id": "57eabd2ce66cfa35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lit rev.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Gannt Chart.png"
               },
-              "icon": "lucide-file",
-              "title": "Lit rev"
+              "icon": "lucide-image",
+              "title": "Gannt Chart"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b3fea3ad66e9190",
+  "active": "57eabd2ce66cfa35",
   "lastOpenFiles": [
     "Lit rev.md",
     "Logbook.md",
