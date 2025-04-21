@@ -136,7 +136,7 @@
 	- covered ethical review and interview sheets
 	- for my project work more on my lit review b4  moving onto more interface design
 		- find better alternative to compare to
-### Project Development (30-31/10/24)
+### Project Development (06-07/10/24)
 - look for existing systems
 ### Advanced web development
 
@@ -146,21 +146,23 @@
 	- brief conclusion at the end
 - don't talk about your own systems structure in the lit review
 	- 
-### Project Development (6-7/10/24)
+### Project Development (13-14/11/24)
 
 ### Advanced web development
+
+
 
 ## Week 10 (18/11/24) !!!
 ### Lecture & Seminar
 
-### Project Development (6-7/10/24)
+### Project Development (20-21/11/24)
 
 ### Advanced web development
 
 ## Week 11 (25/11/24) !!!
 ### Lecture & Seminar
 
-### Project Development (6-7/10/24)
+### Project Development (27-28/11/24)
 
 ### Advanced web development
 
