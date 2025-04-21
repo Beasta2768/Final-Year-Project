@@ -116,7 +116,7 @@
 
 ### Advanced web development
 
-## Week 7 (21/10/24) !!!
+## Week 7 (28/10/24) !!!
 ### Lecture & Seminar
 - Seminar
 	- avoid already existing ideas without iterating on them
@@ -127,7 +127,7 @@
 ### Advanced web development
 
 
-## Week 8 (28/10/24) !!!
+## Week 8 (04/11/24) !!!
 ### Lecture & Seminar
 - Seminar
 	- covered ethical review and interview sheets
@@ -137,7 +137,7 @@
 - look for existing systems
 ### Advanced web development
 
-## Week 9 (04/11/24) !!!
+## Week 9 (11/11/24) !!!
 ### Lecture & Seminar
 - Introduce major sections
 	- brief conclusion at the end
@@ -147,7 +147,7 @@
 
 ### Advanced web development
 
-## Week 10 (11/11/24) !!!
+## Week 10 (18/11/24) !!!
 ### Lecture & Seminar
 - Introduce major sections
 	- brief conclusion at the end
@@ -157,7 +157,7 @@
 
 ### Advanced web development
 
-## Week 11 (18/11/24) !!!
+## Week 11 (25/11/24) !!!
 ### Lecture & Seminar
 - Introduce major sections
 	- brief conclusion at the end
