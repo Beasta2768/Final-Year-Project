@@ -106,13 +106,10 @@
 	- I use tailwind in a temporary react project
 ### Advanced web development
 - This week we covered
-- Persistence = Keeping data/state beyond the life of the process.
-- Typically involves **storing data in a database**.
-- Symfony doesn't have its own persistence layer but works closely with **Doctrine**.
-### **Doctrine**
-- An **ORM (Object Relational Mapper)** for PHP.
-- Provides a **DBAL (Database Abstraction Layer)**.
-- Uses **DQL (Doctrine Query Language)**, a custom SQL-like syntax tailored for objects.
+- Persistence - Keeping data/state beyond the life of the process, involving storing data in a database
+- Doctrine - An ORM (Object Relational Mapper) for PHP.
+	- Provides a **DBAL (Database Abstraction Layer)**.
+	- Uses DQL (Doctrine Query Language)**, a custom SQL-like syntax tailored for objects.
     
 ### **ORM Concepts**
 - **Entities** = PHP classes representing data.
