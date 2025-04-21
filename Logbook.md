@@ -103,9 +103,26 @@
 		- Same thing for hosting, if we are using hosting methods other than Poseidon we should talk with our supervisor to get approval for it.
 ### Project Development (16-17/10/24)
 - This week I started learning tailwind using https://tailwindcss.com/plus/ui-blocks/documentation
-	- I use tailwind in a te
+	- I use tailwind in a temporary react project
 ### Advanced web development
+- This week we covered
+- Persistence = Keeping data/state beyond the life of the process.
+- Typically involves **storing data in a database**.
+- Symfony doesn't have its own persistence layer but works closely with **Doctrine**.
+### **Doctrine**
+- An **ORM (Object Relational Mapper)** for PHP.
+- Provides a **DBAL (Database Abstraction Layer)**.
+- Uses **DQL (Doctrine Query Language)**, a custom SQL-like syntax tailored for objects.
+    
+### **ORM Concepts**
+- **Entities** = PHP classes representing data.
+- **Tables** = Database equivalent of entities.    
+- **Entity Manager** = Handles saving/retrieving objects.
 
+#### 🔁 **Mapping**
+- Entities ↔ Tables
+- Fields ↔ Columns
+- Objects ↔ Rows
 
 ## Week 6 (21/10/24) !!!
 ### Lecture & Seminar
