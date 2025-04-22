@@ -203,8 +203,9 @@
 ### Project Development (22-23/01/25)
 - created a new react app
 	- decided to use next.js with react
-	- followed https://nextjs.org/docs/ to learn project structure and
-		- 
+	- followed https://nextjs.org/docs/ to learn project structure and how it differs from normal react
+		- site routing is done through app->pages->[page]->page.js instead of being able to be in a component exported to a router function
+			- [page] is the route and the page.js holds the webpage code
 
 ## Week 20 (27/01/25)
 ### Project Development (28-29/01/25)
