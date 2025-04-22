@@ -168,7 +168,8 @@
 		- brief conclusion at the end
 	- don't talk about your own systems structure in the lit review
 ### Project Development (13-14/11/24)
-- Focused on developing my literature review and worked on improving user interface design 
+- Focused on developing my literature review and worked on improving user interface design
+	- Worked on a section covering progressive web applications and service workers
 ### Advanced web development
 - We covered Doctrine Associations
 	 - Doctrine Associations manage relationships between entities (like database tables) using object references instead of foreign keys, with types such as `OneToMany`, `ManyToOne`, `OneToOne`, and `ManyToMany`.	
@@ -184,36 +185,37 @@
 	- how to manage user access to resources (like URLs, controllers, templates) using firewalls and roles. Symfony defaults to permissive access unless specified otherwise.
 	- Roles (e.g., `ROLE_USER`, `ROLE_ADMIN`) to define permissions, can be hierarchical, and are checked using `$this->isGranted()` or `denyAccessUnlessGranted()` in controllers.
 ## Week 11 (25/11/24) 
-
 ### Project Development (27-28/11/24)
-- finalised methodology section of literature covering
- - Agile Development Approach
-- The use of  React for frontend , Node.js for backend, and Tailwind CSS for styling 
-- Data storage and deployment using Firebase is used for authentication, data storage, and file management 
-### Advanced web development
+- finalised methodology section of literature covering:
+	 - Agile Development Approach
+	- The use of  React for frontend , Node.js for backend, and Tailwind CSS for styling 
+	- Data storage and deployment using Firebase is used for authentication, data storage, and file management 
 
 
-## Week 18
+
+## Week 18 (13/01/25)
 
 
-## Week 19
+## Week 19 (20/01/25)
 
 
-## Week 20
+## Week 20 (27/01/25)
 
-## Week 21
-## Week 22
+## Week 21 (03/02/25)
+
+
+## Week 22 (10/02/25)
 - login and image upload
-## Week 23
+## Week 23 (17/02/25)
 -  service worker
 - https://blog.logrocket.com/implementing-service-workers-next-js/
 - https://nextjs.org/docs/app/building-your-application/configuring/progressive-web-apps
 
-## Week 24
+## Week 24 (24/02/25)
 -  tags system
 ![[Pasted image 20250421221311.png]]
 
-## Week 25
+## Week 25 (03/02/25)
 -  integrated tags with ai detection
 ![[Pasted image 20250421221209.png]]
 
