@@ -122,27 +122,23 @@
 
 ## Week 7 (28/10/24)
 ### Lecture & Seminar
-- Seminar
-	- avoid already existing ideas without iterating on them
-	- look at similar products for lit review
+- avoid already existing ideas without iterating on them
+- look at similar products for lit review
 
 ### Project Development (30-31/10/24)
 - Worked on User Interface design ideas
+- #todo
 ### Advanced web development
 - Focused on user interfaces and handling data input via forms.
-- We covered the 5 parts of a forms lifecycle
-1. **Building the Form:**
-2. **Creating a Form Class Example:*
-3. **Specifying Data Class**
-4. **Rendering the Form:*
-5. **Processing the Form:*
-
-
-#### **Best Practices**
-
-- Combine rendering and submission logic in one controller action.
-    
-- Always redirect after form submission to avoid duplicate submissions.
+- We covered the 5 parts of a forms:
+	1. Building the Form
+	2. Creating a Form Class
+	3. Specifying Data Class
+	4. Rendering the Form
+	5. Processing the Form
+- Best Practices we discussed
+	- Combining rendering and submission logic in one controller action.
+	- Always redirecting after form submission to avoid duplicate submissions.
 
 
 ## Week 8 (04/11/24) !!!
@@ -152,7 +148,7 @@
 	- for my project work more on my lit review b4  moving onto more interface design
 		- find better alternative to compare to
 ### Project Development (06-07/10/24)
-- look for existing systems
+- I researched existing systems like google photos, amazon photos
 ### Advanced web development
 
 ## Week 9 (11/11/24) !!!
