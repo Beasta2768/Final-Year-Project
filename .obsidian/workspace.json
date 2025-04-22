@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20250422040847.png"
+                "file": "Pasted image 20250422041221.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250422040847"
+              "title": "Pasted image 20250422041221"
             }
           },
           {
@@ -202,11 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b3fea3ad66e9190",
+  "active": "f0139c45a6becfe1",
   "lastOpenFiles": [
+    "Pasted image 20250422040847.png",
     "Pasted image 20250422041221.png",
     "Pasted image 20250422042532.png",
-    "Pasted image 20250422040847.png",
     "Pasted image 20250421221311.png",
     "Logbook.md",
     "tbls.md",
