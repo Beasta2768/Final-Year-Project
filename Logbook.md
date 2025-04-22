@@ -203,28 +203,35 @@
 ### Project Development (28-29/01/25)
 
 ## Week 21 (03/02/25)
-### Project Development (15-16/01/25)
+### Project Development (05-06/02/25)
 
 ## Week 22 (10/02/25)
+### Project Development (12-13/02/25)
 - login and image upload
 ## Week 23 (17/02/25)
+### Project Development (19-20/02/25)
 -  service worker
 - https://blog.logrocket.com/implementing-service-workers-next-js/
 - https://nextjs.org/docs/app/building-your-application/configuring/progressive-web-apps
 
 ## Week 24 (24/02/25)
+### Project Development (26-27/02/25)
 -  tags system
 ![[Pasted image 20250421221311.png]]
 
 ## Week 25 (03/03/25)
+### Project Development (05-06/03/25)
 -  integrated tags with ai detection
 ![[Pasted image 20250421221209.png]]
 
 ## Week 26 (10/03/25)
+### Project Development (12-13/03/25)
 - Albums
 
-## Week 27 (07/03/25)
+## Week 27 (17/03/25)
+### Project Development (19-20/03/25)
 - finishing touches 
 
 ## Week 28 (24/03/25)
+### Project Development (26-27/02/25)
 - user testing
