@@ -237,8 +237,9 @@
 ## Week 25 (03/03/25)
 ### Project Development (05-06/03/25)
 -  Integrated custom tags with image detection
-	- used tensorflow.js coco model for image  detection
-		- 
+	- used tensorflow.js coco model for object detection
+		- https://www.tensorflow.org/js/models
+	- I tried both coco and mobileNet for object detection and image classification but found coco more reliable
 ## Week 26 (10/03/25)
 ### Project Development (12-13/03/25)
 - Albums
