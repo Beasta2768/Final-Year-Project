@@ -146,23 +146,28 @@
 - Seminar
 	- covered ethical review and interview sheets
 	- for my project work more on my lit review b4  moving onto more interface design
-		- find better alternative to compare to
+		- find better alternatives to compare to.
 ### Project Development (06-07/10/24)
 - I researched existing systems like google photos, amazon photos for features I could improve or add to
 	- Amazon Photos
 		 - Offers cloud storage for images, with features like albums and "memories"
 		- Offline access requires downloading the mobile app, which adds friction and storage use; a progressive web ap could offer a more seamless, storage-efficient experience.
-	- Go
+	- Google Photos
+		- `Offers photo storage, date-based grouping, and custom albums.
+
 ### Advanced web development
+- We covered security 
+	-  Authentication & Authorization: Authentication confirms a user's identity (e.g., login), while authorization checks if they have access to specific resources—authentication must happen first.
+	- Symfony Authentication Workflow: Includes user registration, login, logout, and session handling using `$this->getUser()`. Passwords are securely hashed using Symfony’s native hasher.
 
-## Week 9 (11/11/24) !!!
+## Week 9 (11/11/24)
 ### Lecture & Seminar
-- Introduce major sections
-	- brief conclusion at the end
-- don't talk about your own systems structure in the lit review
-	- 
+- Literature review tips
+	- Introduce major sections
+		- brief conclusion at the end
+	- don't talk about your own systems structure in the lit review
 ### Project Development (13-14/11/24)
-
+- Focused on developing my literature review and worked on user interface 
 ### Advanced web development
 
 
