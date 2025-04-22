@@ -180,12 +180,16 @@
 ### Project Development (20-21/11/24)
 - Focused on developing my literature review
 ### Advanced web development
-
-## Week 11 (25/11/24) !!!
-### 
+- Access Control in Symfony 
+	- how to manage user access to resources (like URLs, controllers, templates) using firewalls and roles. Symfony defaults to permissive access unless specified otherwise.
+	- Roles (e.g., `ROLE_USER`, `ROLE_ADMIN`) to define permissions, can be hierarchical, and are checked using `$this->isGranted()` or `denyAccessUnlessGranted()` in controllers.
+## Week 11 (25/11/24) 
 
 ### Project Development (27-28/11/24)
-- finalised literature review due next week
+- finalised methodology section of literature covering
+ - Agile Development Approach
+- The use of  React for frontend , Node.js for backend, and Tailwind CSS for styling 
+- Data storage and deployment using Firebase is used for authentication, data storage, and file management 
 ### Advanced web development
 
 
