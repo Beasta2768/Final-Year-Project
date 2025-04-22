@@ -47,8 +47,7 @@
               "title": "Gannt Chart"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +204,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa2614254600b0e9",
+  "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
-    "Logbook.md",
     "tbls.md",
+    "Logbook.md",
     "Lit rev.md",
     "Pasted image 20250422042842.png",
     "Proposal.md",
