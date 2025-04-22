@@ -236,13 +236,15 @@
 
 ## Week 25 (03/03/25)
 ### Project Development (05-06/03/25)
--  Integrated custom tags with image detection
+-  Integrated custom tags with image detection and last updated image
+![[Pasted image 20250422042532.png]]
 	- used tensorflow.js coco model for object detection
 		- https://www.tensorflow.org/js/models
 	- I tried both coco and mobileNet for object detection and image classification but found coco more reliable
 ## Week 26 (10/03/25)
 ### Project Development (12-13/03/25)
-- Albums
+- Added automatic album population when a tagged image is uploaded
+- ![[Pasted image 20250422042639.png]]
 
 ## Week 27 (17/03/25)
 ### Project Development (19-20/03/25)
