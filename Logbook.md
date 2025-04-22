@@ -178,7 +178,7 @@
 
 ## Week 10 (18/11/24) 
 
-### Project Development (20-21/11/24) (2hrs)
+### Project Development (20-21/11/24) (3hrs)
 - Focused on developing my literature review
 	- Worked on adapting web sites for mobile
 ### Advanced web development
@@ -186,7 +186,7 @@
 	- how to manage user access to resources (like URLs, controllers, templates) using firewalls and roles. Symfony defaults to permissive access unless specified otherwise.
 	- Roles (e.g., `ROLE_USER`, `ROLE_ADMIN`) to define permissions, can be hierarchical, and are checked using `$this->isGranted()` or `denyAccessUnlessGranted()` in controllers.
 ## Week 11 (25/11/24) 
-### Project Development (27-28/11/24)
+### Project Development (27-28/11/24) (2hrs)
 - finalised methodology section of literature covering:
 	 - Agile Development Approach
 	- The use of  React for frontend , Node.js for backend, and Tailwind CSS for styling 
@@ -196,11 +196,11 @@
 
 ## Week 18 (13/01/25)
 
-### Project Development (15-16/01/25)
-- Finalised use interface design
+### Project Development (15-16/01/25) (1hrs)
+- Finalised user interface design
 - #todo
 ## Week 19 (20/01/25)
-### Project Development (22-23/01/25)
+### Project Development (22-23/01/25) (2hrs)
 - created a new react app
 	- decided to use next.js with react
 	- followed https://nextjs.org/docs/ to learn project structure and how it differs from normal react
@@ -208,46 +208,47 @@
 			- [page] is the route and the page.js holds the webpage code
 
 ## Week 20 (27/01/25)
-### Project Development (28-29/01/25)
+### Project Development (28-29/01/25) (2hrs)
 - setup firebase environment and integrated it into react project 
 	- used the docs https://firebase.google.com/docs to learn how to integrate user  authentication with react
 
 ## Week 21 (03/02/25)
-### Project Development (05-06/02/25)
+### Project Development (05-06/02/25) (4hrs)
 - implemented login and signup with firebase authentication along with errors 
 ![[Pasted image 20250422040847.png]]
 - implemented a dynamic navigation bar depending on whether you are logged in or not
 ## Week 22 (10/02/25)
-### Project Development (12-13/02/25)
+### Project Development (12-13/02/25) (3hrs)
 - implemented  image upload with firebase storage limited to png/jpg
 ![[Pasted image 20250422041221.png]]
 - added the ability to view all images uploaded
 ## Week 23 (17/02/25)
-### Project Development (19-20/02/25)
+### Project Development (19-20/02/25) (6hrs)
 - implemented a simple service worker and manifest file using:
 	- https://blog.logrocket.com/implementing-service-workers-next-js/
 	- https://nextjs.org/docs/app/building-your-application/configuring/progressive-web-apps
+	- struggled with service worker preventing firebase signup from working
 - allowing the app to be installed on mobile
 
 ## Week 24 (24/02/25)
-### Project Development (26-27/02/25)
+### Project Development (26-27/02/25) (3hrs)
 - added the ability to add tags to images using firebases custom meta data  in firebase storage
 ![[Pasted image 20250421221311.png]]
 
 ## Week 25 (03/03/25)
-### Project Development (05-06/03/25)
+### Project Development (05-06/03/25) (4hrs)
 -  Integrated custom tags with image detection and last updated image
 ![[Pasted image 20250422042532.png]]
 	- used tensorflow.js coco model for object detection
 		- https://www.tensorflow.org/js/models
 	- I tried both coco and mobileNet for object detection and image classification but found coco more reliable
 ## Week 26 (10/03/25)
-### Project Development (12-13/03/25)
+### Project Development (12-13/03/25) (2hrs)
 - Added automatic album population when a tagged image is uploaded
 ![[Pasted image 20250422042639.png]]
 ![[Pasted image 20250422042842.png]]
 ## Week 27 (17/03/25)
-### Project Development (19-20/03/25)
+### Project Development (19-20/03/25) (2hrs)
 - replaced place holder images
 - cleaned code
 - tried loading optimisations
@@ -256,4 +257,4 @@
 
 ## Week 28 (24/03/25)
 ### Project Development (26-27/02/25)
-- user testing
+- User testing
