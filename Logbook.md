@@ -157,7 +157,7 @@
 		- `Offers photo storage, date-based grouping, and custom albums.
 
 ### Advanced web development
-- We covered security 
+- We covered user management 
 	-  Authentication & Authorization: Authentication confirms a user's identity (e.g., login), while authorization checks if they have access to specific resources—authentication must happen first.
 	- Symfony Authentication Workflow: Includes user registration, login, logout, and session handling using `$this->getUser()`. Passwords are securely hashed using Symfony’s native hasher.
 
@@ -170,18 +170,19 @@
 ### Project Development (13-14/11/24)
 - Focused on developing my literature review and worked on improving user interface design 
 ### Advanced web development
-We covered Doctrine Assoc
+- We covered Doctrine Associations
+	 - Doctrine Associations manage relationships between entities (like database tables) using object references instead of foreign keys, with types such as `OneToMany`, `ManyToOne`, `OneToOne`, and `ManyToMany`.	
+	- Symfony Integration allows easy creation and updating of entity relationships and handles complex references with tools like the entity manager and built-in safeguards against issues like infinite loops.
 
 
-## Week 10 (18/11/24) !!!
-### Lecture & Seminar
+## Week 10 (18/11/24) 
 
 ### Project Development (20-21/11/24)
 - Focused on developing my literature review
 ### Advanced web development
 
 ## Week 11 (25/11/24) !!!
-### Lecture & Seminar
+### 
 
 ### Project Development (27-28/11/24)
 - finalised literature review due next week
