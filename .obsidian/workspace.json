@@ -11,14 +11,12 @@
             "id": "7b3fea3ad66e9190",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Logbook.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250422042842.png"
               },
-              "icon": "lucide-file",
-              "title": "Logbook"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250422042842"
             }
           },
           {
@@ -192,17 +190,17 @@
   },
   "active": "7b3fea3ad66e9190",
   "lastOpenFiles": [
-    "Pasted image 20250422042842.png",
+    "Proposal.md",
     "Pasted image 20250422042639.png",
     "Pasted image 20250422042532.png",
-    "Pasted image 20250421221209.png",
+    "Pasted image 20250422041221.png",
     "Pasted image 20250422040847.png",
     "Pasted image 20250421221311.png",
     "Logbook.md",
-    "Pasted image 20250422041221.png",
+    "Pasted image 20250422042842.png",
+    "Pasted image 20250421221209.png",
     "Images/Gannt Chart.png",
     "Final Year Project Mark Scheme.sheet.md",
-    "Proposal.md",
     "Lit rev.md",
     "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
     "Dataset.md",
@@ -213,7 +211,6 @@
     "Images/Week 7/Pasted image 20241102101643.png",
     "Images/Week 7/Pasted image 20241102101613.png",
     "Images/Week 7",
-    "Images/Week 7/Pasted image 20241102101716.png",
     "Week 5/Week 5 (Lecture) Requirements Engineering.md",
     "Week 2/Week 2 (Lecture) Project Proposal - Writing.md",
     "Images/Week 6",
