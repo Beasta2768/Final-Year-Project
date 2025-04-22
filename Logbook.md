@@ -103,7 +103,7 @@
 		- Same thing for hosting, if we are using hosting methods other than Poseidon we should talk with our supervisor to get approval for it.
 ### Project Development (16-17/10/24)
 - This week I started learning tailwind using https://tailwindcss.com/plus/ui-blocks/documentation
-	- I use tailwind in a temporary react project
+	- I used tailwind in a temporary react project to familiarise myself with it
 ### Advanced web development
 - This week we covered
 	- Persistence - Keeping data/state beyond the life of the process, involving storing data in a database
@@ -111,13 +111,14 @@
 
 ## Week 6 (21/10/24) !!!
 ### Lecture & Seminar
-- Seminar
+- Seminar Advice:
 	- Stick to Gannt chart for project coding
-	- use library to get access to research papers
+	- Use the Library to get access to research papers
 
 ### Project Development (23-24/10/24) 
-
+- continued to work on familiarising myself with tailwind, converting previous personal react projects using bootstrap to tailwind
 ### Advanced web development
+We covered services
 
 ## Week 7 (28/10/24) !!!
 ### Lecture & Seminar
