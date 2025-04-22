@@ -201,10 +201,14 @@
 - #todo
 ## Week 19 (20/01/25)
 ### Project Development (22-23/01/25)
-- 
+- created a new react app
+	- decided to use next.js with react
+	- followed https://nextjs.org/docs/ to learn project structure and
+		- 
 
 ## Week 20 (27/01/25)
 ### Project Development (28-29/01/25)
+- setup firebase environment and integrated it into  react project 
 
 ## Week 21 (03/02/25)
 ### Project Development (05-06/02/25)
