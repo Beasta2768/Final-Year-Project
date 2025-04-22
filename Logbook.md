@@ -45,7 +45,7 @@
 	- Project would most likely end up being a proto-type so focus on what the final project would be capable of doing
 	 - However, don't keep leave time for write-up and not to  just focus on packing a lot of features into the project for the sake of it
 	- Engagement and attendance in the seminars are important at they count toward the working professional section of our proposal grade
-### Project Development (25-26/09/24)
+### Project Development (25-26/09/24) (2hrs)
 - For the second week of project development I decided on making a Photo Storage web app using React, but since that wasn't a complex enough project I decided to add image recognition that tags and organise images uploaded to the web app to create collages based on those tags.
  - This project aims to help people get a curated set of collages through the use of AI
  - I plan to use an image recognition framework in node.js as that is the back-end solution that I am initially planning on using.
@@ -63,7 +63,7 @@
 - we also covered how out project objectives shouldn't just be software features and should  include parts of the development cycle like testing.
 - We also shared out project ideas with our project supervisors to get feedback on any potential problems
  - My feedback was to look into the viability of image recognition with the react framework since I already had an idea of the framework that I wanted to use.
-### Project Development (2-3/10/24)
+### Project Development (2-3/10/24) (4hrs)
 - For the third week I followed my supervisors feedback form earlier in the week and tested an image recognition module from node.
 - ![[Pasted image 20241011142746.png]]
  
@@ -84,7 +84,7 @@
 - It should start with identifying key concepts of the project and use as wide of a range of sources as possible
   - Each source should have a list of identifying information like title, authors, keywords/topic and a brief summary of the source. To help write the review
   - Sources should also be appropriately referenced using APA 7 the university's referencing standard
-### Project Development (09-10/10/24)
+### Project Development (09-10/10/24) (5hrs)
 - This weeks project development mainly focused of finishing an polishing my project proposal by setting my objectives and writing my development requirements
  - I also made a Gantt chart using my objectives to put at the end of my proposal
 ### Advanced web development
@@ -101,7 +101,7 @@
 - For the rest of the seminar we discussed the literature review and how to approach the project
 	- We discussed how we should do some proof of concepts for some of the tech-stacks we are using
 		- Same thing for hosting, if we are using hosting methods other than Poseidon we should talk with our supervisor to get approval for it.
-### Project Development (16-17/10/24)
+### Project Development (16-17/10/24) (4hrs)
 - This week I started learning tailwind using https://tailwindcss.com/plus/ui-blocks/documentation
 	- I used tailwind in a temporary react project to familiarise myself with it
 	- completed risk assessment
@@ -110,12 +110,12 @@
 	- Persistence - Keeping data/state beyond the life of the process, involving storing data in a database
 	- Doctrine - An ORM (Object Relational Mapper) for PHP, providing a database abstraction Layer.
 
-## Week 6 (21/10/24) !!!
+## Week 6 (21/10/24) 
 ### Lecture & Seminar
 - Seminar Advice:
 	- Stick to Gannt chart for project coding
 	- Use the Library to get access to research papers
-### Project Development (23-24/10/24) 
+### Project Development (23-24/10/24)  (2hrs)
 - continued to work on familiarising myself with tailwind, converting previous personal react projects using bootstrap to tailwind
 ### Advanced web development
 - We covered Services, reusable objects that do tasks, they power all core Symfony features: Router, Twig, Logger. And are managed by the Service Container
@@ -142,13 +142,13 @@
 	- Always redirecting after form submission to avoid duplicate submissions.
 
 
-## Week 8 (04/11/24) !!!
+## Week 8 (04/11/24) 
 ### Lecture & Seminar
 - Seminar
 	- covered ethical review and interview sheets
 	- for my project work more on my lit review b4  moving onto more interface design
 		- find better alternatives to compare to.
-### Project Development (06-07/10/24)
+### Project Development (06-07/10/24) (3hrs)
 - I researched existing systems like google photos, amazon photos for features I could improve or add to
 	- Amazon Photos
 		 - Offers cloud storage for images, with features like albums and "memories"
@@ -167,7 +167,7 @@
 	- Introduce major sections
 		- brief conclusion at the end
 	- don't talk about your own systems structure in the lit review
-### Project Development (13-14/11/24)
+### Project Development (13-14/11/24) (4hrs)
 - Focused on developing my literature review and worked on improving user interface design
 	- Worked on a section covering progressive web applications and service workers
 ### Advanced web development
@@ -178,7 +178,7 @@
 
 ## Week 10 (18/11/24) 
 
-### Project Development (20-21/11/24)
+### Project Development (20-21/11/24) (2hrs)
 - Focused on developing my literature review
 	- Worked on adapting web sites for mobile
 ### Advanced web development
@@ -248,7 +248,11 @@
 ![[Pasted image 20250422042842.png]]
 ## Week 27 (17/03/25)
 ### Project Development (19-20/03/25)
-- finishing touches 
+- replaced place holder images
+- cleaned code
+- tried loading optimisations
+	- didn't work as planned as model loading and image loading are tied due to react functionality
+		- attempted to separate in different use effects
 
 ## Week 28 (24/03/25)
 ### Project Development (26-27/02/25)
