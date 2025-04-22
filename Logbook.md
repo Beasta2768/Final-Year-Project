@@ -221,23 +221,24 @@
 ### Project Development (12-13/02/25)
 - implemented  image upload with firebase storage limited to png/jpg
 ![[Pasted image 20250422041221.png]]
-- added the ability to view all images
+- added the ability to view all images uploaded
 ## Week 23 (17/02/25)
 ### Project Development (19-20/02/25)
--  service worker
-- https://blog.logrocket.com/implementing-service-workers-next-js/
-- https://nextjs.org/docs/app/building-your-application/configuring/progressive-web-apps
+- implemented a simple service worker and manifest file using:
+	- https://blog.logrocket.com/implementing-service-workers-next-js/
+	- https://nextjs.org/docs/app/building-your-application/configuring/progressive-web-apps
+- allowing the app to be installed on mobile
 
 ## Week 24 (24/02/25)
 ### Project Development (26-27/02/25)
--  tags system
+- added the ability to add tags to images using firebases custom meta data  in firebase storage
 ![[Pasted image 20250421221311.png]]
 
 ## Week 25 (03/03/25)
 ### Project Development (05-06/03/25)
--  integrated tags with ai detection
-![[Pasted image 20250421221209.png]]
-
+-  Integrated custom tags with image detection
+	- used tensorflow.js coco model for image  detection
+		- 
 ## Week 26 (10/03/25)
 ### Project Development (12-13/03/25)
 - Albums
