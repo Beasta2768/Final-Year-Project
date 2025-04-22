@@ -244,8 +244,8 @@
 ## Week 26 (10/03/25)
 ### Project Development (12-13/03/25)
 - Added automatic album population when a tagged image is uploaded
-- ![[Pasted image 20250422042639.png]]
-
+![[Pasted image 20250422042639.png]]
+![[Pasted image 20250422042842.png]]
 ## Week 27 (17/03/25)
 ### Project Development (19-20/03/25)
 - finishing touches 
