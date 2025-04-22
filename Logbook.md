@@ -209,11 +209,12 @@
 
 ## Week 20 (27/01/25)
 ### Project Development (28-29/01/25)
-- setup firebase environment and integrated it into  react project 
+- setup firebase environment and integrated it into react project 
+	- used the docs https://firebase.google.com/docs to learn how to integrate user  authentication with react
 
 ## Week 21 (03/02/25)
 ### Project Development (05-06/02/25)
-
+- 
 ## Week 22 (10/02/25)
 ### Project Development (12-13/02/25)
 - login and image upload
