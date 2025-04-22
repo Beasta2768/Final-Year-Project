@@ -104,6 +104,7 @@
 ### Project Development (16-17/10/24)
 - This week I started learning tailwind using https://tailwindcss.com/plus/ui-blocks/documentation
 	- I used tailwind in a temporary react project to familiarise myself with it
+	- completed risk assessment
 ### Advanced web development
 - This week we covered
 	- Persistence - Keeping data/state beyond the life of the process, involving storing data in a database
@@ -167,23 +168,23 @@
 		- brief conclusion at the end
 	- don't talk about your own systems structure in the lit review
 ### Project Development (13-14/11/24)
-- Focused on developing my literature review and worked on user interface 
+- Focused on developing my literature review and worked on improving user interface design 
 ### Advanced web development
-
+We covered Doctrine Assoc
 
 
 ## Week 10 (18/11/24) !!!
 ### Lecture & Seminar
 
 ### Project Development (20-21/11/24)
-
+- Focused on developing my literature review
 ### Advanced web development
 
 ## Week 11 (25/11/24) !!!
 ### Lecture & Seminar
 
 ### Project Development (27-28/11/24)
-
+- finalised literature review due next week
 ### Advanced web development
 
 
