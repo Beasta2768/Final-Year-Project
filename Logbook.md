@@ -180,6 +180,7 @@
 
 ### Project Development (20-21/11/24)
 - Focused on developing my literature review
+	- Worked on adapting web sites for mobile
 ### Advanced web development
 - Access Control in Symfony 
 	- how to manage user access to resources (like URLs, controllers, templates) using firewalls and roles. Symfony defaults to permissive access unless specified otherwise.
@@ -196,8 +197,11 @@
 ## Week 18 (13/01/25)
 
 ### Project Development (15-16/01/25)
+- Finalised use interface design
+- #todo
 ## Week 19 (20/01/25)
 ### Project Development (22-23/01/25)
+- 
 
 ## Week 20 (27/01/25)
 ### Project Development (28-29/01/25)
