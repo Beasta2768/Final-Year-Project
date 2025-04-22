@@ -114,13 +114,13 @@
 - Seminar Advice:
 	- Stick to Gannt chart for project coding
 	- Use the Library to get access to research papers
-
 ### Project Development (23-24/10/24) 
 - continued to work on familiarising myself with tailwind, converting previous personal react projects using bootstrap to tailwind
 ### Advanced web development
-We covered services
+- We covered Services, reusable objects that do tasks, they power all core Symfony features: Router, Twig, Logger. And are managed by the Service Container
+- We also covered dependency injection and how it promotes testability, and clean architecture.
 
-## Week 7 (28/10/24) !!!
+## Week 7 (28/10/24)
 ### Lecture & Seminar
 - Seminar
 	- avoid already existing ideas without iterating on them
@@ -129,6 +129,20 @@ We covered services
 ### Project Development (30-31/10/24)
 - Worked on User Interface design ideas
 ### Advanced web development
+- Focused on user interfaces and handling data input via forms.
+- We covered the 5 parts of a forms lifecycle
+1. **Building the Form:**
+2. **Creating a Form Class Example:*
+3. **Specifying Data Class**
+4. **Rendering the Form:*
+5. **Processing the Form:*
+
+
+#### **Best Practices**
+
+- Combine rendering and submission logic in one controller action.
+    
+- Always redirect after form submission to avoid duplicate submissions.
 
 
 ## Week 8 (04/11/24) !!!
