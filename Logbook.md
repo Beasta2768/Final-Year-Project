@@ -195,14 +195,15 @@
 
 ## Week 18 (13/01/25)
 
-
+### Project Development (15-16/01/25)
 ## Week 19 (20/01/25)
-
+### Project Development (22-23/01/25)
 
 ## Week 20 (27/01/25)
+### Project Development (28-29/01/25)
 
 ## Week 21 (03/02/25)
-
+### Project Development (15-16/01/25)
 
 ## Week 22 (10/02/25)
 - login and image upload
@@ -215,16 +216,15 @@
 -  tags system
 ![[Pasted image 20250421221311.png]]
 
-## Week 25 (03/02/25)
+## Week 25 (03/03/25)
 -  integrated tags with ai detection
 ![[Pasted image 20250421221209.png]]
 
-## Week 26
+## Week 26 (10/03/25)
 - Albums
 
-
-## Week 27
+## Week 27 (07/03/25)
 - finishing touches 
 
-## Week 28
+## Week 28 (24/03/25)
 - user testing
