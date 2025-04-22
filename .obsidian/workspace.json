@@ -11,12 +11,28 @@
             "id": "7b3fea3ad66e9190",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250422042842.png"
+                "file": "Logbook.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250422042842"
+              "icon": "lucide-file",
+              "title": "Logbook"
+            }
+          },
+          {
+            "id": "aa2614254600b0e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tbls.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tbls"
             }
           },
           {
@@ -31,7 +47,8 @@
               "title": "Gannt Chart"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,20 +205,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b3fea3ad66e9190",
+  "active": "aa2614254600b0e9",
   "lastOpenFiles": [
+    "Logbook.md",
+    "tbls.md",
+    "Lit rev.md",
+    "Pasted image 20250422042842.png",
     "Proposal.md",
     "Pasted image 20250422042639.png",
     "Pasted image 20250422042532.png",
     "Pasted image 20250422041221.png",
     "Pasted image 20250422040847.png",
     "Pasted image 20250421221311.png",
-    "Logbook.md",
-    "Pasted image 20250422042842.png",
     "Pasted image 20250421221209.png",
     "Images/Gannt Chart.png",
     "Final Year Project Mark Scheme.sheet.md",
-    "Lit rev.md",
     "Week 7/Week 7 (Lecture) Writing Your Introduction & Literature Review.md",
     "Dataset.md",
     "Week 4/Week 4 (Lecture) Research Methods.md",
