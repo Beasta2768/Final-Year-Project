@@ -148,7 +148,11 @@
 	- for my project work more on my lit review b4  moving onto more interface design
 		- find better alternative to compare to
 ### Project Development (06-07/10/24)
-- I researched existing systems like google photos, amazon photos
+- I researched existing systems like google photos, amazon photos for features I could improve or add to
+	- Amazon Photos
+		 - Offers cloud storage for images, with features like albums and "memories"
+		- Offline access requires downloading the mobile app, which adds friction and storage use; a progressive web ap could offer a more seamless, storage-efficient experience.
+	- Go
 ### Advanced web development
 
 ## Week 9 (11/11/24) !!!
