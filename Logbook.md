@@ -214,10 +214,14 @@
 
 ## Week 21 (03/02/25)
 ### Project Development (05-06/02/25)
-- 
+- implemented login and signup with firebase authentication along with errors 
+![[Pasted image 20250422040847.png]]
+- implemented a dynamic navigation bar depending on whether you are logged in or not
 ## Week 22 (10/02/25)
 ### Project Development (12-13/02/25)
-- login and image upload
+- implemented  image upload with firebase storage limited to png/jpg
+![[Pasted image 20250422041221.png]]
+- added the ability to view all images
 ## Week 23 (17/02/25)
 ### Project Development (19-20/02/25)
 -  service worker
